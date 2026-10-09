@@ -1,0 +1,11 @@
+{
+  "job": "a28-worker-edits-tests-001",
+  "status": "COMPLETE",
+  "device": "cpu",
+  "wall_seconds": 0.35,
+  "process_cpu_seconds": 0.21000000000000002,
+  "charged_cpu_seconds": 0.35,
+  "gpu_occupation_seconds": 0.0,
+  "durable_reservations": {},
+  "measurement_role": "external /usr/bin/time receipt, rounded 0.01s, synthetic tests only"
+}

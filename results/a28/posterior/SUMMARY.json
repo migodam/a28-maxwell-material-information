@@ -1,0 +1,9 @@
+{
+  "status": "COMPLETE",
+  "rows": 192,
+  "conditions": 32,
+  "physical_failures": 0,
+  "finite_diagnostic_prior_only": true,
+  "kappa_network": "NOT_RUN",
+  "post_mean_correction_is_one_gradient_TV_update": true
+}

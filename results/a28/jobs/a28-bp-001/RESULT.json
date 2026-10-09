@@ -1,0 +1,10 @@
+{
+  "status": "COMPLETE",
+  "BP_pairs": 222,
+  "cutoff_rows": 888,
+  "CNN_pair_rows": 222,
+  "new_full_material_states": 0,
+  "actual_12_channel_trace": true,
+  "CNN_retrained": false,
+  "formal_global_identifiability": "NOT_ESTABLISHED"
+}

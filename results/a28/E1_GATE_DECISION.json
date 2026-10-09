@@ -1,0 +1,47 @@
+{
+  "scope": "EXPOSED_DEVELOPMENT_SCREENING_NOT_GLOBAL_IDENTIFIABILITY",
+  "E1_execution": "NUMERICAL_DIAGNOSTICS_COMPLETE_WITH_PROTOCOL_BUDGET_FAIL",
+  "E2": "NO_GO",
+  "E3": "NO_GO_FROM_THIS_FINITE_EVIDENCE",
+  "kappa_learning_representation": "NO_GO",
+  "new_training": "NOT_RUN",
+  "locked_ID_OOD": "UNOPENED",
+  "F6_vs_N3_complex_material": {
+    "mean_gain": 0.010117890380260458,
+    "ci95_low": -0.007559653261507139,
+    "ci95_high": 0.025659136059933366,
+    "paired_parents": 12,
+    "complete": true
+  },
+  "F6_vs_L6_complex_material": {
+    "mean_gain": 0.003962124898214041,
+    "ci95_low": -0.010950800969935595,
+    "ci95_high": 0.017831405155064935,
+    "paired_parents": 12,
+    "complete": true
+  },
+  "F6_vs_N3_complex_full_data_residual": {
+    "mean_gain": 0.27331260285507064,
+    "ci95_low": 0.22460427241849137,
+    "ci95_high": 0.3206623206070553,
+    "paired_parents": 12,
+    "complete": true
+  },
+  "frozen_complex_material_headroom_threshold": 0.1,
+  "important_ambiguous_complex_parents_in_fixed_bank": 0,
+  "frozen_ambiguity_required_parents": 4,
+  "kappa_nondegenerate_and_material_effective_conditions": 0,
+  "frozen_kappa_required_conditions": 8,
+  "budget": {
+    "campaign_full_wave_material_states": 762,
+    "legacy_unreserved_real_fixture_states": 45,
+    "strict_all_resolution_full_wave_material_states": 807,
+    "strict_state_count_label": "AT_LEAST",
+    "strict_state_total_is_known_lower_bound": true,
+    "full_wave_material_state_budget_compliance": "FAIL"
+  },
+  "hard_full_wave_cap": 768,
+  "interpretation": "Finite material information survives actual BP, but tested legal candidate/update paths do not supply sufficient complex-material headroom. Stop current feedback-specific expansion; no universal kill of Maxwell physics or all structural priors.",
+  "primary_report": "E1_DECISION.md",
+  "report_authority": "Codex parent scientific review; no gate thresholds were changed"
+}

@@ -1,0 +1,19 @@
+{
+  "role": "synthetic_unit_test_only",
+  "command": "PYTHONPATH=src:tests /usr/bin/time -p ../../A25/a25-adaptive-om-feedback/.venv_a25/bin/python -m unittest tests.test_a28_edits -v",
+  "tests": 14,
+  "failures": 0,
+  "errors": 0,
+  "skips": 0,
+  "process_wall_seconds": 0.35,
+  "process_user_seconds": 0.17,
+  "process_system_seconds": 0.04,
+  "charge_cpu_seconds": 0.35,
+  "charge_rule": "max measured process wall, user plus system; printed time rounded to 0.01s",
+  "gpu_seconds": 0.0,
+  "physics_actions": 0,
+  "new_labels": 0,
+  "development_reads": 0,
+  "locked_reads": 0,
+  "not_scientific_evidence": true
+}

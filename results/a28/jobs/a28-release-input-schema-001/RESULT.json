@@ -1,0 +1,107 @@
+{
+  "metadata_only": true,
+  "rows": [
+    {
+      "file": "validation_N3.npz",
+      "fields": [
+        "features",
+        "base_mass",
+        "initial_mass",
+        "beta",
+        "case_id",
+        "parent_id",
+        "family",
+        "background_id",
+        "sigma",
+        "noise_db",
+        "split",
+        "variant_id",
+        "method",
+        "cache_schema",
+        "protocol_id"
+      ],
+      "parent_id_shape": [
+        128
+      ],
+      "unique_parent_ids": [
+        250065,
+        250066,
+        250067,
+        250068,
+        250069,
+        250070,
+        250071,
+        250072,
+        250073,
+        250074,
+        250075,
+        250076,
+        250077,
+        250078,
+        250079,
+        250080
+      ],
+      "case_id_shape": [
+        128
+      ]
+    },
+    {
+      "file": "validation_ONLINE_MEASUREMENTS.npz",
+      "fields": [
+        "data",
+        "sigma",
+        "background_id",
+        "case_id"
+      ],
+      "parent_id_shape": null,
+      "unique_parent_ids": null,
+      "case_id_shape": [
+        128
+      ]
+    },
+    {
+      "file": "PREDICTIONS.npz",
+      "fields": [
+        "N1",
+        "BASE_N1",
+        "N2",
+        "BASE_N2",
+        "N3",
+        "BASE_N3",
+        "COMMON_BP_INITIAL",
+        "A25_CERTIFIED_TV_INITIAL_OFFLINE_CACHE",
+        "truth",
+        "case_id",
+        "parent_id",
+        "family",
+        "background_id",
+        "sigma",
+        "beta_N2"
+      ],
+      "parent_id_shape": [
+        128
+      ],
+      "unique_parent_ids": [
+        250065,
+        250066,
+        250067,
+        250068,
+        250069,
+        250070,
+        250071,
+        250072,
+        250073,
+        250074,
+        250075,
+        250076,
+        250077,
+        250078,
+        250079,
+        250080
+      ],
+      "case_id_shape": [
+        128
+      ]
+    }
+  ]
+}

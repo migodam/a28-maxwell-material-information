@@ -1,0 +1,10 @@
+{
+  "status": "COMPLETE",
+  "conditions": 32,
+  "rows": 448,
+  "numerical_failures": 0,
+  "max_outer_attempts": 6,
+  "ordinary_TV_baseline_alias": "F_TV",
+  "truth_in_candidate_or_acceptance": false,
+  "full_F_acceptance_cost_paid_for_L": true
+}

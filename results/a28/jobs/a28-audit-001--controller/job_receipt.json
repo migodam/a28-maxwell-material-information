@@ -1,0 +1,12 @@
+{
+  "job": "a28-audit-001--controller",
+  "status": "COMPLETE",
+  "device": "cuda",
+  "wall_seconds": 1.4720785000245087,
+  "process_cpu_seconds": 1.390625,
+  "gpu_occupation_seconds": 1.4720785000245087,
+  "charged_cpu_seconds": 1.390625,
+  "durable_reservations": {},
+  "measurement_role": "exclusive controller/import/stop tail",
+  "counts": {}
+}

@@ -1,0 +1,100 @@
+{
+  "status": "COMPLETE",
+  "rows": [
+    {
+      "background": "weak",
+      "role": "fresh_full_state",
+      "repeat": 0,
+      "wall_seconds": 0.03249150002375245,
+      "backward_residual": 1.6891349073733943e-15
+    },
+    {
+      "background": "weak",
+      "role": "fresh_full_state",
+      "repeat": 1,
+      "wall_seconds": 0.024202600005082786,
+      "backward_residual": 1.6891349073733943e-15
+    },
+    {
+      "background": "weak",
+      "role": "fresh_full_state",
+      "repeat": 2,
+      "wall_seconds": 0.022414300008676946,
+      "backward_residual": 1.6891349073733943e-15
+    },
+    {
+      "background": "weak",
+      "role": "L_TV",
+      "wall_seconds": 0.07395760004874319,
+      "accepted": false,
+      "certificate": {
+        "prox_kkt": 3.249538604403733e-07,
+        "prox_gap": 8.057288085967958e-14,
+        "prox_iterations": 10
+      },
+      "scientific_material_score_computed": false
+    },
+    {
+      "background": "weak",
+      "role": "F_TV",
+      "wall_seconds": 0.08065600000554696,
+      "accepted": true,
+      "certificate": {
+        "prox_kkt": 9.325779931267033e-07,
+        "prox_gap": 3.5893917456613234e-11,
+        "prox_iterations": 20
+      },
+      "scientific_material_score_computed": false
+    },
+    {
+      "background": "ring",
+      "role": "fresh_full_state",
+      "repeat": 0,
+      "wall_seconds": 0.023706200008746237,
+      "backward_residual": 1.7798031630930775e-15
+    },
+    {
+      "background": "ring",
+      "role": "fresh_full_state",
+      "repeat": 1,
+      "wall_seconds": 0.02722889999859035,
+      "backward_residual": 1.7798031630930775e-15
+    },
+    {
+      "background": "ring",
+      "role": "fresh_full_state",
+      "repeat": 2,
+      "wall_seconds": 0.027232400025241077,
+      "backward_residual": 1.7798031630930775e-15
+    },
+    {
+      "background": "ring",
+      "role": "L_TV",
+      "wall_seconds": 0.33305810001911595,
+      "accepted": false,
+      "certificate": {
+        "prox_kkt": 9.684998386032562e-07,
+        "prox_gap": 1.018296511999181e-09,
+        "prox_iterations": 270
+      },
+      "scientific_material_score_computed": false
+    },
+    {
+      "background": "ring",
+      "role": "F_TV",
+      "wall_seconds": 0.4813097000005655,
+      "accepted": true,
+      "certificate": {
+        "prox_kkt": 9.792379630656927e-07,
+        "prox_gap": 4.351560576828541e-09,
+        "prox_iterations": 410
+      },
+      "scientific_material_score_computed": false
+    }
+  ],
+  "proposed_parents": 16,
+  "proposed_conditions": 32,
+  "scientific_material_score_computed": false,
+  "planned_primary_new_state_upper_bound": 736,
+  "micro_state_evaluations_inclusive": true
+}

@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "checks": 14,
+  "passed": true,
+  "scope": "supplied toy algebra assertions; no Maxwell imaging evidence",
+  "full_wave_material_states": 0,
+  "source_copy_retained": true
+}

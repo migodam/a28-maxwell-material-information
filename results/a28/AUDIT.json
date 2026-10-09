@@ -1,0 +1,444 @@
+{
+  "T0": "PASS",
+  "checks": [
+    {
+      "background": "weak",
+      "old_backend_relative_error": 3.908151002885491e-16,
+      "real_mass_adjoint_defect": 5.092517163204668e-17,
+      "full_backward_residual": 1.6891349073733943e-15,
+      "finite_differences": [
+        {
+          "epsilon": 0.0001,
+          "derivative_relative_error": 5.124421738669529e-10
+        },
+        {
+          "epsilon": 1e-05,
+          "derivative_relative_error": 4.80754891705101e-11
+        },
+        {
+          "epsilon": 1e-06,
+          "derivative_relative_error": 4.4867561714288955e-10
+        },
+        {
+          "epsilon": 1e-07,
+          "derivative_relative_error": 4.387304011771557e-09
+        }
+      ]
+    },
+    {
+      "background": "ring",
+      "old_backend_relative_error": 5.398777822532444e-16,
+      "real_mass_adjoint_defect": 6.311090971578238e-18,
+      "full_backward_residual": 1.7798031630930775e-15,
+      "finite_differences": [
+        {
+          "epsilon": 0.0001,
+          "derivative_relative_error": 6.267239295464309e-10
+        },
+        {
+          "epsilon": 1e-05,
+          "derivative_relative_error": 2.5609054198480785e-10
+        },
+        {
+          "epsilon": 1e-06,
+          "derivative_relative_error": 2.252264185805803e-09
+        },
+        {
+          "epsilon": 1e-07,
+          "derivative_relative_error": 2.3117210259878975e-08
+        }
+      ]
+    }
+  ],
+  "clean_current_checks": [
+    {
+      "case_id": "p250065_weak_a1_snr20",
+      "parent_id": 250065,
+      "family": "shell",
+      "background_id": "weak",
+      "amplitude": 1.2,
+      "sigma": 0.0010486064440967538,
+      "constitutive_identity": 1.3304104037681868e-15,
+      "clean_receiver_identity": 7.145364015942955e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250065_ring_a1_snr20",
+      "parent_id": 250065,
+      "family": "shell",
+      "background_id": "ring",
+      "amplitude": 1.2,
+      "sigma": 0.0006642250374511204,
+      "constitutive_identity": 1.5259836709247648e-15,
+      "clean_receiver_identity": 8.498424232771847e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250066_weak_a1_snr20",
+      "parent_id": 250066,
+      "family": "shell",
+      "background_id": "weak",
+      "amplitude": 1.2,
+      "sigma": 0.001543081101631912,
+      "constitutive_identity": 1.322080629005847e-15,
+      "clean_receiver_identity": 8.121348362682182e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250066_ring_a1_snr20",
+      "parent_id": 250066,
+      "family": "shell",
+      "background_id": "ring",
+      "amplitude": 1.2,
+      "sigma": 0.0012227007110708677,
+      "constitutive_identity": 1.560765785704563e-15,
+      "clean_receiver_identity": 8.413611820522609e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250067_weak_a1_snr20",
+      "parent_id": 250067,
+      "family": "shell",
+      "background_id": "weak",
+      "amplitude": 1.2,
+      "sigma": 0.0012153329208576902,
+      "constitutive_identity": 1.3902288326274676e-15,
+      "clean_receiver_identity": 8.298346245926066e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250067_ring_a1_snr20",
+      "parent_id": 250067,
+      "family": "shell",
+      "background_id": "ring",
+      "amplitude": 1.2,
+      "sigma": 0.0008320946538595081,
+      "constitutive_identity": 1.4973337682900138e-15,
+      "clean_receiver_identity": 8.79950795396273e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250068_weak_a1_snr20",
+      "parent_id": 250068,
+      "family": "shell",
+      "background_id": "weak",
+      "amplitude": 1.2,
+      "sigma": 0.0010424674168438284,
+      "constitutive_identity": 1.3384197025365588e-15,
+      "clean_receiver_identity": 9.212041423341167e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250068_ring_a1_snr20",
+      "parent_id": 250068,
+      "family": "shell",
+      "background_id": "ring",
+      "amplitude": 1.2,
+      "sigma": 0.000669592212046697,
+      "constitutive_identity": 1.4997134862003085e-15,
+      "clean_receiver_identity": 8.752512257689572e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250069_weak_a1_snr20",
+      "parent_id": 250069,
+      "family": "asymmetric_piecewise",
+      "background_id": "weak",
+      "amplitude": 1.2,
+      "sigma": 0.001270913712869431,
+      "constitutive_identity": 1.3661329928406298e-15,
+      "clean_receiver_identity": 7.850154515452072e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250069_ring_a1_snr20",
+      "parent_id": 250069,
+      "family": "asymmetric_piecewise",
+      "background_id": "ring",
+      "amplitude": 1.2,
+      "sigma": 0.0008537276049369115,
+      "constitutive_identity": 1.491925344081407e-15,
+      "clean_receiver_identity": 8.789933790352e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250070_weak_a1_snr20",
+      "parent_id": 250070,
+      "family": "asymmetric_piecewise",
+      "background_id": "weak",
+      "amplitude": 1.2,
+      "sigma": 0.0007326261257290524,
+      "constitutive_identity": 1.3349858432345391e-15,
+      "clean_receiver_identity": 8.314280631379414e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250070_ring_a1_snr20",
+      "parent_id": 250070,
+      "family": "asymmetric_piecewise",
+      "background_id": "ring",
+      "amplitude": 1.2,
+      "sigma": 0.000470666409717461,
+      "constitutive_identity": 1.4860654704418482e-15,
+      "clean_receiver_identity": 9.05565970484845e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250071_weak_a1_snr20",
+      "parent_id": 250071,
+      "family": "asymmetric_piecewise",
+      "background_id": "weak",
+      "amplitude": 1.2,
+      "sigma": 0.0008816187715736283,
+      "constitutive_identity": 1.3795500183280066e-15,
+      "clean_receiver_identity": 8.566274420077451e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250071_ring_a1_snr20",
+      "parent_id": 250071,
+      "family": "asymmetric_piecewise",
+      "background_id": "ring",
+      "amplitude": 1.2,
+      "sigma": 0.0007113655038373227,
+      "constitutive_identity": 1.4866181160215114e-15,
+      "clean_receiver_identity": 8.664291053445581e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250072_weak_a1_snr20",
+      "parent_id": 250072,
+      "family": "asymmetric_piecewise",
+      "background_id": "weak",
+      "amplitude": 1.2,
+      "sigma": 0.0007929900536886904,
+      "constitutive_identity": 1.342607526293408e-15,
+      "clean_receiver_identity": 7.444636372151198e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250072_ring_a1_snr20",
+      "parent_id": 250072,
+      "family": "asymmetric_piecewise",
+      "background_id": "ring",
+      "amplitude": 1.2,
+      "sigma": 0.0005788737769073203,
+      "constitutive_identity": 1.4971330630937951e-15,
+      "clean_receiver_identity": 8.473949211178218e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250073_weak_a1_snr20",
+      "parent_id": 250073,
+      "family": "smooth",
+      "background_id": "weak",
+      "amplitude": 1.2,
+      "sigma": 0.00119211798514519,
+      "constitutive_identity": 1.2618830563391805e-15,
+      "clean_receiver_identity": 8.466000615073391e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250073_ring_a1_snr20",
+      "parent_id": 250073,
+      "family": "smooth",
+      "background_id": "ring",
+      "amplitude": 1.2,
+      "sigma": 0.0007590054418520374,
+      "constitutive_identity": 1.441168810712949e-15,
+      "clean_receiver_identity": 8.686645858045998e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250074_weak_a1_snr20",
+      "parent_id": 250074,
+      "family": "smooth",
+      "background_id": "weak",
+      "amplitude": 1.2,
+      "sigma": 0.0010138054304962279,
+      "constitutive_identity": 1.344464616544004e-15,
+      "clean_receiver_identity": 7.708020042989986e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250074_ring_a1_snr20",
+      "parent_id": 250074,
+      "family": "smooth",
+      "background_id": "ring",
+      "amplitude": 1.2,
+      "sigma": 0.0008062904430402392,
+      "constitutive_identity": 1.569127749361055e-15,
+      "clean_receiver_identity": 8.71894602220698e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250075_weak_a1_snr20",
+      "parent_id": 250075,
+      "family": "smooth",
+      "background_id": "weak",
+      "amplitude": 1.2,
+      "sigma": 0.0008300997155496489,
+      "constitutive_identity": 1.386195359027182e-15,
+      "clean_receiver_identity": 9.12730438368272e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250075_ring_a1_snr20",
+      "parent_id": 250075,
+      "family": "smooth",
+      "background_id": "ring",
+      "amplitude": 1.2,
+      "sigma": 0.0006734389342154887,
+      "constitutive_identity": 1.4737862957725304e-15,
+      "clean_receiver_identity": 8.627620903899057e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250076_weak_a1_snr20",
+      "parent_id": 250076,
+      "family": "smooth",
+      "background_id": "weak",
+      "amplitude": 1.2,
+      "sigma": 0.0009098362929809959,
+      "constitutive_identity": 1.4458146284341555e-15,
+      "clean_receiver_identity": 7.919685702508259e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250076_ring_a1_snr20",
+      "parent_id": 250076,
+      "family": "smooth",
+      "background_id": "ring",
+      "amplitude": 1.2,
+      "sigma": 0.0005458855361293018,
+      "constitutive_identity": 1.443912327059801e-15,
+      "clean_receiver_identity": 8.726944704540557e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250077_weak_a1_snr20",
+      "parent_id": 250077,
+      "family": "mixed_scale",
+      "background_id": "weak",
+      "amplitude": 1.2,
+      "sigma": 0.0011846108030513216,
+      "constitutive_identity": 1.2403983775032388e-15,
+      "clean_receiver_identity": 7.966116876589097e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250077_ring_a1_snr20",
+      "parent_id": 250077,
+      "family": "mixed_scale",
+      "background_id": "ring",
+      "amplitude": 1.2,
+      "sigma": 0.0008011841639367669,
+      "constitutive_identity": 1.502797253597545e-15,
+      "clean_receiver_identity": 8.71119219595223e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250078_weak_a1_snr20",
+      "parent_id": 250078,
+      "family": "mixed_scale",
+      "background_id": "weak",
+      "amplitude": 1.2,
+      "sigma": 0.0010794729556930008,
+      "constitutive_identity": 1.4627129594051534e-15,
+      "clean_receiver_identity": 8.143350965809898e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250078_ring_a1_snr20",
+      "parent_id": 250078,
+      "family": "mixed_scale",
+      "background_id": "ring",
+      "amplitude": 1.2,
+      "sigma": 0.0006859805857578234,
+      "constitutive_identity": 1.453571892049969e-15,
+      "clean_receiver_identity": 8.39196096248257e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250079_weak_a1_snr20",
+      "parent_id": 250079,
+      "family": "mixed_scale",
+      "background_id": "weak",
+      "amplitude": 1.2,
+      "sigma": 0.0012101909949691896,
+      "constitutive_identity": 1.3625950031846183e-15,
+      "clean_receiver_identity": 8.713726034445266e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250079_ring_a1_snr20",
+      "parent_id": 250079,
+      "family": "mixed_scale",
+      "background_id": "ring",
+      "amplitude": 1.2,
+      "sigma": 0.0008622744320639242,
+      "constitutive_identity": 1.507762834277797e-15,
+      "clean_receiver_identity": 8.788949455839173e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250080_weak_a1_snr20",
+      "parent_id": 250080,
+      "family": "mixed_scale",
+      "background_id": "weak",
+      "amplitude": 1.2,
+      "sigma": 0.0015075974355162713,
+      "constitutive_identity": 1.2649141557602613e-15,
+      "clean_receiver_identity": 8.47235953242786e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    },
+    {
+      "case_id": "p250080_ring_a1_snr20",
+      "parent_id": 250080,
+      "family": "mixed_scale",
+      "background_id": "ring",
+      "amplitude": 1.2,
+      "sigma": 0.0011297855859357109,
+      "constitutive_identity": 1.472186095399578e-15,
+      "clean_receiver_identity": 8.802221336986076e-16,
+      "source_count": 8,
+      "clean_state_reused": true
+    }
+  ],
+  "N3_checkpoint_rows": 128,
+  "N3_prediction_relative_error": 0.0,
+  "locked_opened": false,
+  "new_training_labels": 0,
+  "clean_material_evaluations_reused": 32
+}

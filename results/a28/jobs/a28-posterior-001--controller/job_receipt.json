@@ -1,0 +1,12 @@
+{
+  "job": "a28-posterior-001--controller",
+  "status": "COMPLETE",
+  "device": "cuda",
+  "wall_seconds": 1.2400396000011824,
+  "process_cpu_seconds": 1.1875,
+  "gpu_occupation_seconds": 1.2400396000011824,
+  "charged_cpu_seconds": 1.1875,
+  "durable_reservations": {},
+  "measurement_role": "exclusive controller/import/stop tail",
+  "counts": {}
+}

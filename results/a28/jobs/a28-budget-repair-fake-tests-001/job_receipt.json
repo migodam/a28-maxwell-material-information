@@ -1,0 +1,15 @@
+{
+  "job": "a28-budget-repair-fake-tests-001",
+  "stage": "evidence-report",
+  "status": "FAILED",
+  "device": "cpu",
+  "wall_seconds": 1.0,
+  "process_cpu_seconds": 0.0,
+  "charged_cpu_seconds": 1.0,
+  "gpu_occupation_seconds": 0.0,
+  "counts": {},
+  "durable_reservations": {},
+  "physics_started": false,
+  "accounting_kind": "CONSERVATIVE_ONE_SECOND_CPU_UPPER_BOUND_NOT_NATIVE_TIMING",
+  "error": "Final default-pattern source edit had an indentation error; import failed before unittest or physics. Corrected before retry; no historical results changed."
+}

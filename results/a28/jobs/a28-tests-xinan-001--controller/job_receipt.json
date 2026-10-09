@@ -1,0 +1,12 @@
+{
+  "job": "a28-tests-xinan-001--controller",
+  "status": "COMPLETE",
+  "device": "cpu",
+  "wall_seconds": 2.8601504000253044,
+  "process_cpu_seconds": 1.234375,
+  "gpu_occupation_seconds": 0.0,
+  "charged_cpu_seconds": 2.8601504000253044,
+  "durable_reservations": {},
+  "measurement_role": "exclusive controller/import/stop tail",
+  "counts": {}
+}

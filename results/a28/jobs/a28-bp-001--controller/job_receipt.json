@@ -1,0 +1,12 @@
+{
+  "job": "a28-bp-001--controller",
+  "status": "COMPLETE",
+  "device": "cuda",
+  "wall_seconds": 1.7187225999659859,
+  "process_cpu_seconds": 1.484375,
+  "gpu_occupation_seconds": 1.7187225999659859,
+  "charged_cpu_seconds": 1.484375,
+  "durable_reservations": {},
+  "measurement_role": "exclusive controller/import/stop tail",
+  "counts": {}
+}

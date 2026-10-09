@@ -1,0 +1,16 @@
+{
+  "job": "a28-headroom-001-startup-upper-bound",
+  "stage": "accounting",
+  "status": "FAILED",
+  "device": "cpu",
+  "wall_seconds": 1.0,
+  "process_cpu_seconds": 0.0,
+  "charged_cpu_seconds": 1.0,
+  "gpu_occupation_seconds": 0.0,
+  "counts": {},
+  "durable_reservations": {},
+  "physics_started": false,
+  "accounting_kind": "CONSERVATIVE_UPPER_BOUND_NOT_NATIVE_TIMING",
+  "error": "a28-headroom-001 blocked at startup before native context; no physics; parent-authorized one-second conservative audit",
+  "original_native_receipt": "ABSENT; never manufactured or overwritten"
+}

@@ -1,0 +1,881 @@
+comparison,group,metric,parent_id,family,candidate_value,control_value,gain,complete,reason,gain_definition
+F6_vs_L6,ALL_FAMILIES,delta_nrmse,250065,shell,0.605201948730271,0.5828350170586551,-0.03837609446407867,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,delta_nrmse,250066,shell,0.6584257130146496,0.6674768907305846,0.01356028626852993,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,delta_nrmse,250067,shell,0.6563069367442145,0.6818375141947981,0.0374437852407306,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,delta_nrmse,250068,shell,0.5568515423827174,0.538000264664616,-0.035039532424492495,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,delta_nrmse,250069,asymmetric_piecewise,0.48380514329543867,0.4929441388235874,0.018539616983699145,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,delta_nrmse,250070,asymmetric_piecewise,0.8070357127511502,0.8136897171745785,0.008177569757835235,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,delta_nrmse,250071,asymmetric_piecewise,0.757390025267683,0.7716347513375992,0.018460451716597184,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,delta_nrmse,250072,asymmetric_piecewise,0.7421051782188527,0.7543033362818103,0.016171422657476328,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,delta_nrmse,250073,smooth,0.4163989162531585,0.4921891374509634,0.15398596887026145,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,delta_nrmse,250074,smooth,0.28354868524282245,0.34143747437782357,0.1695443338212585,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,delta_nrmse,250075,smooth,0.318690873519044,0.36609053315677753,0.12947523998779478,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,delta_nrmse,250076,smooth,0.2853693302322401,0.3061638865590086,0.06791969020409164,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,delta_nrmse,250077,mixed_scale,0.5166813676618227,0.4993344979412393,-0.034739978495587055,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,delta_nrmse,250078,mixed_scale,0.5521787599186525,0.5531823962475895,0.0018142954941172112,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,delta_nrmse,250079,mixed_scale,0.5976550902499043,0.5999029661910065,0.003747065888629883,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,delta_nrmse,250080,mixed_scale,0.5961567266469137,0.6195681050988239,0.037786610155111186,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,support_iou,250065,shell,0.6591784338896021,0.6591784338896021,0.0,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,support_iou,250066,shell,0.5650554400554401,0.5441595441595442,0.02089589589589591,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,support_iou,250067,shell,0.6598639455782312,0.6526175687666371,0.007246376811594124,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,support_iou,250068,shell,0.6891891891891893,0.6989489489489489,-0.009759759759759623,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,support_iou,250069,asymmetric_piecewise,0.6673611111111111,0.6814009661835749,-0.014039855072463858,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,support_iou,250070,asymmetric_piecewise,0.31265664160401,0.3127906976744186,-0.00013405607040856138,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,support_iou,250071,asymmetric_piecewise,0.4395424836601307,0.39814814814814814,0.04139433551198257,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,support_iou,250072,asymmetric_piecewise,0.49682539682539684,0.46967963386727685,0.02714576295811999,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,support_iou,250073,smooth,0.919661733615222,0.8800098960910441,0.03965183752417789,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,support_iou,250074,smooth,0.8548387096774193,0.8548387096774193,0.0,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,support_iou,250075,smooth,0.803076923076923,0.803076923076923,0.0,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,support_iou,250076,smooth,0.9182795698924731,0.8909090909090909,0.027370478983382185,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,support_iou,250077,mixed_scale,0.6078431372549019,0.6202480992396959,-0.012404961984794016,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,support_iou,250078,mixed_scale,0.6292929292929292,0.6222222222222222,0.007070707070707005,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,support_iou,250079,mixed_scale,0.6414281744929147,0.608641289247013,0.032786885245901676,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,support_iou,250080,mixed_scale,0.6599539700805523,0.6276486671223513,0.032305302958201,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,edge_f1,250065,shell,0.7674418604651163,0.7674418604651163,0.0,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,edge_f1,250066,shell,0.6387959866220736,0.6275689223057643,0.011227064316309265,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,edge_f1,250067,shell,0.5265957446808511,0.5053191489361701,0.021276595744680993,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,edge_f1,250068,shell,0.7763012181616833,0.815734989648033,-0.039433771486349745,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,edge_f1,250069,asymmetric_piecewise,0.5457364341085271,0.5590697674418605,-0.01333333333333342,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,edge_f1,250070,asymmetric_piecewise,0.2954954954954955,0.3060200668896321,-0.01052457139413665,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,edge_f1,250071,asymmetric_piecewise,0.3610438525692763,0.3416181914331042,0.019425661136172112,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,edge_f1,250072,asymmetric_piecewise,0.44485683987274655,0.43124368048533873,0.013613159387407814,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,edge_f1,250073,smooth,0.8220720720720721,0.7261904761904763,0.09588159588159584,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,edge_f1,250074,smooth,0.7849462365591398,0.7849462365591398,0.0,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,edge_f1,250075,smooth,0.6780626780626781,0.6780626780626781,0.0,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,edge_f1,250076,smooth,0.8709677419354839,0.8064516129032258,0.06451612903225812,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,edge_f1,250077,mixed_scale,0.45098039215686275,0.4984520123839009,-0.04747162022703816,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,edge_f1,250078,mixed_scale,0.6733333333333333,0.6666666666666666,0.00666666666666671,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,edge_f1,250079,mixed_scale,0.7163348946135831,0.6739241803278688,0.0424107142857143,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,edge_f1,250080,mixed_scale,0.590887174541948,0.5762852404643449,0.014601934077603018,True,,candidate-control absolute
+F6_vs_L6,ALL_FAMILIES,full_data_residual_absolute,250065,shell,0.014310737684290309,0.0177139870018203,0.19212215280389855,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,full_data_residual_absolute,250066,shell,0.021515965557580223,0.02895116171533671,0.2568185771218201,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,full_data_residual_absolute,250067,shell,0.016796752386659716,0.022213085250216594,0.24383523506731533,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,full_data_residual_absolute,250068,shell,0.013837316111689825,0.01663531422607853,0.16819628871226205,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,full_data_residual_absolute,250069,asymmetric_piecewise,0.01721170571524172,0.019437427377411495,0.1145070085126757,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,full_data_residual_absolute,250070,asymmetric_piecewise,0.012526637041422019,0.01650187688542172,0.24089622481134582,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,full_data_residual_absolute,250071,asymmetric_piecewise,0.01667994656571863,0.02305906203345086,0.2766424522592594,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,full_data_residual_absolute,250072,asymmetric_piecewise,0.012859859474601,0.017559631339798758,0.2676463858637945,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,full_data_residual_absolute,250073,smooth,0.015221066811275706,0.018271744642308477,0.16696149660327914,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,full_data_residual_absolute,250074,smooth,0.015089376415399465,0.021290853125172392,0.2912742234100924,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,full_data_residual_absolute,250075,smooth,0.012609126653766166,0.016840639369801038,0.25126793722706886,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,full_data_residual_absolute,250076,smooth,0.01211708665550838,0.016069979499796983,0.24597995562710842,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,full_data_residual_absolute,250077,mixed_scale,0.016433212177471086,0.018812222814783435,0.12646090048661465,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,full_data_residual_absolute,250078,mixed_scale,0.014772545174633847,0.019104933898368783,0.22676805618808468,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,full_data_residual_absolute,250079,mixed_scale,0.017427088464584073,0.021661405683856123,0.19547749029176875,True,,(control-candidate)/control
+F6_vs_L6,ALL_FAMILIES,full_data_residual_absolute,250080,mixed_scale,0.021420000565716683,0.031157429762973445,0.31252350631400383,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,delta_nrmse,250065,shell,0.605201948730271,0.5828350170586551,-0.03837609446407867,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,delta_nrmse,250066,shell,0.6584257130146496,0.6674768907305846,0.01356028626852993,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,delta_nrmse,250067,shell,0.6563069367442145,0.6818375141947981,0.0374437852407306,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,delta_nrmse,250068,shell,0.5568515423827174,0.538000264664616,-0.035039532424492495,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,delta_nrmse,250069,asymmetric_piecewise,0.48380514329543867,0.4929441388235874,0.018539616983699145,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,delta_nrmse,250070,asymmetric_piecewise,0.8070357127511502,0.8136897171745785,0.008177569757835235,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,delta_nrmse,250071,asymmetric_piecewise,0.757390025267683,0.7716347513375992,0.018460451716597184,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,delta_nrmse,250072,asymmetric_piecewise,0.7421051782188527,0.7543033362818103,0.016171422657476328,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,delta_nrmse,250077,mixed_scale,0.5166813676618227,0.4993344979412393,-0.034739978495587055,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,delta_nrmse,250078,mixed_scale,0.5521787599186525,0.5531823962475895,0.0018142954941172112,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,delta_nrmse,250079,mixed_scale,0.5976550902499043,0.5999029661910065,0.003747065888629883,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,delta_nrmse,250080,mixed_scale,0.5961567266469137,0.6195681050988239,0.037786610155111186,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,support_iou,250065,shell,0.6591784338896021,0.6591784338896021,0.0,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,support_iou,250066,shell,0.5650554400554401,0.5441595441595442,0.02089589589589591,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,support_iou,250067,shell,0.6598639455782312,0.6526175687666371,0.007246376811594124,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,support_iou,250068,shell,0.6891891891891893,0.6989489489489489,-0.009759759759759623,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,support_iou,250069,asymmetric_piecewise,0.6673611111111111,0.6814009661835749,-0.014039855072463858,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,support_iou,250070,asymmetric_piecewise,0.31265664160401,0.3127906976744186,-0.00013405607040856138,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,support_iou,250071,asymmetric_piecewise,0.4395424836601307,0.39814814814814814,0.04139433551198257,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,support_iou,250072,asymmetric_piecewise,0.49682539682539684,0.46967963386727685,0.02714576295811999,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,support_iou,250077,mixed_scale,0.6078431372549019,0.6202480992396959,-0.012404961984794016,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,support_iou,250078,mixed_scale,0.6292929292929292,0.6222222222222222,0.007070707070707005,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,support_iou,250079,mixed_scale,0.6414281744929147,0.608641289247013,0.032786885245901676,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,support_iou,250080,mixed_scale,0.6599539700805523,0.6276486671223513,0.032305302958201,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,edge_f1,250065,shell,0.7674418604651163,0.7674418604651163,0.0,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,edge_f1,250066,shell,0.6387959866220736,0.6275689223057643,0.011227064316309265,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,edge_f1,250067,shell,0.5265957446808511,0.5053191489361701,0.021276595744680993,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,edge_f1,250068,shell,0.7763012181616833,0.815734989648033,-0.039433771486349745,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,edge_f1,250069,asymmetric_piecewise,0.5457364341085271,0.5590697674418605,-0.01333333333333342,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,edge_f1,250070,asymmetric_piecewise,0.2954954954954955,0.3060200668896321,-0.01052457139413665,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,edge_f1,250071,asymmetric_piecewise,0.3610438525692763,0.3416181914331042,0.019425661136172112,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,edge_f1,250072,asymmetric_piecewise,0.44485683987274655,0.43124368048533873,0.013613159387407814,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,edge_f1,250077,mixed_scale,0.45098039215686275,0.4984520123839009,-0.04747162022703816,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,edge_f1,250078,mixed_scale,0.6733333333333333,0.6666666666666666,0.00666666666666671,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,edge_f1,250079,mixed_scale,0.7163348946135831,0.6739241803278688,0.0424107142857143,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,edge_f1,250080,mixed_scale,0.590887174541948,0.5762852404643449,0.014601934077603018,True,,candidate-control absolute
+F6_vs_L6,COMPLEX_FAMILIES,full_data_residual_absolute,250065,shell,0.014310737684290309,0.0177139870018203,0.19212215280389855,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,full_data_residual_absolute,250066,shell,0.021515965557580223,0.02895116171533671,0.2568185771218201,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,full_data_residual_absolute,250067,shell,0.016796752386659716,0.022213085250216594,0.24383523506731533,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,full_data_residual_absolute,250068,shell,0.013837316111689825,0.01663531422607853,0.16819628871226205,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,full_data_residual_absolute,250069,asymmetric_piecewise,0.01721170571524172,0.019437427377411495,0.1145070085126757,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,full_data_residual_absolute,250070,asymmetric_piecewise,0.012526637041422019,0.01650187688542172,0.24089622481134582,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,full_data_residual_absolute,250071,asymmetric_piecewise,0.01667994656571863,0.02305906203345086,0.2766424522592594,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,full_data_residual_absolute,250072,asymmetric_piecewise,0.012859859474601,0.017559631339798758,0.2676463858637945,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,full_data_residual_absolute,250077,mixed_scale,0.016433212177471086,0.018812222814783435,0.12646090048661465,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,full_data_residual_absolute,250078,mixed_scale,0.014772545174633847,0.019104933898368783,0.22676805618808468,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,full_data_residual_absolute,250079,mixed_scale,0.017427088464584073,0.021661405683856123,0.19547749029176875,True,,(control-candidate)/control
+F6_vs_L6,COMPLEX_FAMILIES,full_data_residual_absolute,250080,mixed_scale,0.021420000565716683,0.031157429762973445,0.31252350631400383,True,,(control-candidate)/control
+F6_vs_L6,shell,delta_nrmse,250065,shell,0.605201948730271,0.5828350170586551,-0.03837609446407867,True,,(control-candidate)/control
+F6_vs_L6,shell,delta_nrmse,250066,shell,0.6584257130146496,0.6674768907305846,0.01356028626852993,True,,(control-candidate)/control
+F6_vs_L6,shell,delta_nrmse,250067,shell,0.6563069367442145,0.6818375141947981,0.0374437852407306,True,,(control-candidate)/control
+F6_vs_L6,shell,delta_nrmse,250068,shell,0.5568515423827174,0.538000264664616,-0.035039532424492495,True,,(control-candidate)/control
+F6_vs_L6,shell,support_iou,250065,shell,0.6591784338896021,0.6591784338896021,0.0,True,,candidate-control absolute
+F6_vs_L6,shell,support_iou,250066,shell,0.5650554400554401,0.5441595441595442,0.02089589589589591,True,,candidate-control absolute
+F6_vs_L6,shell,support_iou,250067,shell,0.6598639455782312,0.6526175687666371,0.007246376811594124,True,,candidate-control absolute
+F6_vs_L6,shell,support_iou,250068,shell,0.6891891891891893,0.6989489489489489,-0.009759759759759623,True,,candidate-control absolute
+F6_vs_L6,shell,edge_f1,250065,shell,0.7674418604651163,0.7674418604651163,0.0,True,,candidate-control absolute
+F6_vs_L6,shell,edge_f1,250066,shell,0.6387959866220736,0.6275689223057643,0.011227064316309265,True,,candidate-control absolute
+F6_vs_L6,shell,edge_f1,250067,shell,0.5265957446808511,0.5053191489361701,0.021276595744680993,True,,candidate-control absolute
+F6_vs_L6,shell,edge_f1,250068,shell,0.7763012181616833,0.815734989648033,-0.039433771486349745,True,,candidate-control absolute
+F6_vs_L6,shell,full_data_residual_absolute,250065,shell,0.014310737684290309,0.0177139870018203,0.19212215280389855,True,,(control-candidate)/control
+F6_vs_L6,shell,full_data_residual_absolute,250066,shell,0.021515965557580223,0.02895116171533671,0.2568185771218201,True,,(control-candidate)/control
+F6_vs_L6,shell,full_data_residual_absolute,250067,shell,0.016796752386659716,0.022213085250216594,0.24383523506731533,True,,(control-candidate)/control
+F6_vs_L6,shell,full_data_residual_absolute,250068,shell,0.013837316111689825,0.01663531422607853,0.16819628871226205,True,,(control-candidate)/control
+F6_vs_L6,asymmetric_piecewise,delta_nrmse,250069,asymmetric_piecewise,0.48380514329543867,0.4929441388235874,0.018539616983699145,True,,(control-candidate)/control
+F6_vs_L6,asymmetric_piecewise,delta_nrmse,250070,asymmetric_piecewise,0.8070357127511502,0.8136897171745785,0.008177569757835235,True,,(control-candidate)/control
+F6_vs_L6,asymmetric_piecewise,delta_nrmse,250071,asymmetric_piecewise,0.757390025267683,0.7716347513375992,0.018460451716597184,True,,(control-candidate)/control
+F6_vs_L6,asymmetric_piecewise,delta_nrmse,250072,asymmetric_piecewise,0.7421051782188527,0.7543033362818103,0.016171422657476328,True,,(control-candidate)/control
+F6_vs_L6,asymmetric_piecewise,support_iou,250069,asymmetric_piecewise,0.6673611111111111,0.6814009661835749,-0.014039855072463858,True,,candidate-control absolute
+F6_vs_L6,asymmetric_piecewise,support_iou,250070,asymmetric_piecewise,0.31265664160401,0.3127906976744186,-0.00013405607040856138,True,,candidate-control absolute
+F6_vs_L6,asymmetric_piecewise,support_iou,250071,asymmetric_piecewise,0.4395424836601307,0.39814814814814814,0.04139433551198257,True,,candidate-control absolute
+F6_vs_L6,asymmetric_piecewise,support_iou,250072,asymmetric_piecewise,0.49682539682539684,0.46967963386727685,0.02714576295811999,True,,candidate-control absolute
+F6_vs_L6,asymmetric_piecewise,edge_f1,250069,asymmetric_piecewise,0.5457364341085271,0.5590697674418605,-0.01333333333333342,True,,candidate-control absolute
+F6_vs_L6,asymmetric_piecewise,edge_f1,250070,asymmetric_piecewise,0.2954954954954955,0.3060200668896321,-0.01052457139413665,True,,candidate-control absolute
+F6_vs_L6,asymmetric_piecewise,edge_f1,250071,asymmetric_piecewise,0.3610438525692763,0.3416181914331042,0.019425661136172112,True,,candidate-control absolute
+F6_vs_L6,asymmetric_piecewise,edge_f1,250072,asymmetric_piecewise,0.44485683987274655,0.43124368048533873,0.013613159387407814,True,,candidate-control absolute
+F6_vs_L6,asymmetric_piecewise,full_data_residual_absolute,250069,asymmetric_piecewise,0.01721170571524172,0.019437427377411495,0.1145070085126757,True,,(control-candidate)/control
+F6_vs_L6,asymmetric_piecewise,full_data_residual_absolute,250070,asymmetric_piecewise,0.012526637041422019,0.01650187688542172,0.24089622481134582,True,,(control-candidate)/control
+F6_vs_L6,asymmetric_piecewise,full_data_residual_absolute,250071,asymmetric_piecewise,0.01667994656571863,0.02305906203345086,0.2766424522592594,True,,(control-candidate)/control
+F6_vs_L6,asymmetric_piecewise,full_data_residual_absolute,250072,asymmetric_piecewise,0.012859859474601,0.017559631339798758,0.2676463858637945,True,,(control-candidate)/control
+F6_vs_L6,smooth,delta_nrmse,250073,smooth,0.4163989162531585,0.4921891374509634,0.15398596887026145,True,,(control-candidate)/control
+F6_vs_L6,smooth,delta_nrmse,250074,smooth,0.28354868524282245,0.34143747437782357,0.1695443338212585,True,,(control-candidate)/control
+F6_vs_L6,smooth,delta_nrmse,250075,smooth,0.318690873519044,0.36609053315677753,0.12947523998779478,True,,(control-candidate)/control
+F6_vs_L6,smooth,delta_nrmse,250076,smooth,0.2853693302322401,0.3061638865590086,0.06791969020409164,True,,(control-candidate)/control
+F6_vs_L6,smooth,support_iou,250073,smooth,0.919661733615222,0.8800098960910441,0.03965183752417789,True,,candidate-control absolute
+F6_vs_L6,smooth,support_iou,250074,smooth,0.8548387096774193,0.8548387096774193,0.0,True,,candidate-control absolute
+F6_vs_L6,smooth,support_iou,250075,smooth,0.803076923076923,0.803076923076923,0.0,True,,candidate-control absolute
+F6_vs_L6,smooth,support_iou,250076,smooth,0.9182795698924731,0.8909090909090909,0.027370478983382185,True,,candidate-control absolute
+F6_vs_L6,smooth,edge_f1,250073,smooth,0.8220720720720721,0.7261904761904763,0.09588159588159584,True,,candidate-control absolute
+F6_vs_L6,smooth,edge_f1,250074,smooth,0.7849462365591398,0.7849462365591398,0.0,True,,candidate-control absolute
+F6_vs_L6,smooth,edge_f1,250075,smooth,0.6780626780626781,0.6780626780626781,0.0,True,,candidate-control absolute
+F6_vs_L6,smooth,edge_f1,250076,smooth,0.8709677419354839,0.8064516129032258,0.06451612903225812,True,,candidate-control absolute
+F6_vs_L6,smooth,full_data_residual_absolute,250073,smooth,0.015221066811275706,0.018271744642308477,0.16696149660327914,True,,(control-candidate)/control
+F6_vs_L6,smooth,full_data_residual_absolute,250074,smooth,0.015089376415399465,0.021290853125172392,0.2912742234100924,True,,(control-candidate)/control
+F6_vs_L6,smooth,full_data_residual_absolute,250075,smooth,0.012609126653766166,0.016840639369801038,0.25126793722706886,True,,(control-candidate)/control
+F6_vs_L6,smooth,full_data_residual_absolute,250076,smooth,0.01211708665550838,0.016069979499796983,0.24597995562710842,True,,(control-candidate)/control
+F6_vs_L6,mixed_scale,delta_nrmse,250077,mixed_scale,0.5166813676618227,0.4993344979412393,-0.034739978495587055,True,,(control-candidate)/control
+F6_vs_L6,mixed_scale,delta_nrmse,250078,mixed_scale,0.5521787599186525,0.5531823962475895,0.0018142954941172112,True,,(control-candidate)/control
+F6_vs_L6,mixed_scale,delta_nrmse,250079,mixed_scale,0.5976550902499043,0.5999029661910065,0.003747065888629883,True,,(control-candidate)/control
+F6_vs_L6,mixed_scale,delta_nrmse,250080,mixed_scale,0.5961567266469137,0.6195681050988239,0.037786610155111186,True,,(control-candidate)/control
+F6_vs_L6,mixed_scale,support_iou,250077,mixed_scale,0.6078431372549019,0.6202480992396959,-0.012404961984794016,True,,candidate-control absolute
+F6_vs_L6,mixed_scale,support_iou,250078,mixed_scale,0.6292929292929292,0.6222222222222222,0.007070707070707005,True,,candidate-control absolute
+F6_vs_L6,mixed_scale,support_iou,250079,mixed_scale,0.6414281744929147,0.608641289247013,0.032786885245901676,True,,candidate-control absolute
+F6_vs_L6,mixed_scale,support_iou,250080,mixed_scale,0.6599539700805523,0.6276486671223513,0.032305302958201,True,,candidate-control absolute
+F6_vs_L6,mixed_scale,edge_f1,250077,mixed_scale,0.45098039215686275,0.4984520123839009,-0.04747162022703816,True,,candidate-control absolute
+F6_vs_L6,mixed_scale,edge_f1,250078,mixed_scale,0.6733333333333333,0.6666666666666666,0.00666666666666671,True,,candidate-control absolute
+F6_vs_L6,mixed_scale,edge_f1,250079,mixed_scale,0.7163348946135831,0.6739241803278688,0.0424107142857143,True,,candidate-control absolute
+F6_vs_L6,mixed_scale,edge_f1,250080,mixed_scale,0.590887174541948,0.5762852404643449,0.014601934077603018,True,,candidate-control absolute
+F6_vs_L6,mixed_scale,full_data_residual_absolute,250077,mixed_scale,0.016433212177471086,0.018812222814783435,0.12646090048661465,True,,(control-candidate)/control
+F6_vs_L6,mixed_scale,full_data_residual_absolute,250078,mixed_scale,0.014772545174633847,0.019104933898368783,0.22676805618808468,True,,(control-candidate)/control
+F6_vs_L6,mixed_scale,full_data_residual_absolute,250079,mixed_scale,0.017427088464584073,0.021661405683856123,0.19547749029176875,True,,(control-candidate)/control
+F6_vs_L6,mixed_scale,full_data_residual_absolute,250080,mixed_scale,0.021420000565716683,0.031157429762973445,0.31252350631400383,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,delta_nrmse,250065,shell,0.605201948730271,0.5824488902258224,-0.03906447224172238,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,delta_nrmse,250066,shell,0.6584257130146496,0.6688199248656913,0.01554112170496271,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,delta_nrmse,250067,shell,0.6563069367442145,0.6855366255511306,0.04263767640921766,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,delta_nrmse,250068,shell,0.5568515423827174,0.5377103163320502,-0.035597654479158136,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,delta_nrmse,250069,asymmetric_piecewise,0.48380514329543867,0.4948986486567196,0.02241571156314841,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,delta_nrmse,250070,asymmetric_piecewise,0.8070357127511502,0.8285073186001713,0.02591601228737384,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,delta_nrmse,250071,asymmetric_piecewise,0.757390025267683,0.7887932467232188,0.0398117270729563,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,delta_nrmse,250072,asymmetric_piecewise,0.7421051782188527,0.7659676648762186,0.0311533864307733,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,delta_nrmse,250073,smooth,0.4163989162531585,0.49908850793250603,0.1656812175898268,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,delta_nrmse,250074,smooth,0.28354868524282245,0.36145869126037555,0.21554331906057528,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,delta_nrmse,250075,smooth,0.318690873519044,0.38795376346790766,0.17853387818621644,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,delta_nrmse,250076,smooth,0.2853693302322401,0.31342262912047003,0.08950629687126743,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,delta_nrmse,250077,mixed_scale,0.5166813676618227,0.4997651662245609,-0.03384830032283762,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,delta_nrmse,250078,mixed_scale,0.5521787599186525,0.5545423492965571,0.004262234220529477,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,delta_nrmse,250079,mixed_scale,0.5976550902499043,0.6012847627331683,0.006036528294456058,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,delta_nrmse,250080,mixed_scale,0.5961567266469137,0.6223909493132277,0.04215071362342588,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,support_iou,250065,shell,0.6591784338896021,0.6671052631578948,-0.00792682926829269,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,support_iou,250066,shell,0.5650554400554401,0.5365079365079365,0.028547503547503572,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,support_iou,250067,shell,0.6598639455782312,0.6526175687666371,0.007246376811594124,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,support_iou,250068,shell,0.6891891891891893,0.6989489489489489,-0.009759759759759623,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,support_iou,250069,asymmetric_piecewise,0.6673611111111111,0.6814009661835749,-0.014039855072463858,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,support_iou,250070,asymmetric_piecewise,0.31265664160401,0.3091321610890527,0.0035244805149572955,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,support_iou,250071,asymmetric_piecewise,0.4395424836601307,0.36315128688010045,0.07639119678003026,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,support_iou,250072,asymmetric_piecewise,0.49682539682539684,0.4704203425012974,0.026405054324099453,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,support_iou,250073,smooth,0.919661733615222,0.8800098960910441,0.03965183752417789,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,support_iou,250074,smooth,0.8548387096774193,0.8578629032258065,-0.003024193548387233,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,support_iou,250075,smooth,0.803076923076923,0.823076923076923,-0.020000000000000018,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,support_iou,250076,smooth,0.9182795698924731,0.8909090909090909,0.027370478983382185,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,support_iou,250077,mixed_scale,0.6078431372549019,0.6202480992396959,-0.012404961984794016,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,support_iou,250078,mixed_scale,0.6292929292929292,0.6154589371980677,0.01383399209486158,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,support_iou,250079,mixed_scale,0.6414281744929147,0.608641289247013,0.032786885245901676,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,support_iou,250080,mixed_scale,0.6599539700805523,0.630229419703104,0.029724550377448367,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,edge_f1,250065,shell,0.7674418604651163,0.7664307381193125,0.0010111223458038054,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,edge_f1,250066,shell,0.6387959866220736,0.6198717948717949,0.018924191750278707,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,edge_f1,250067,shell,0.5265957446808511,0.5053191489361701,0.021276595744680993,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,edge_f1,250068,shell,0.7763012181616833,0.815734989648033,-0.039433771486349745,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,edge_f1,250069,asymmetric_piecewise,0.5457364341085271,0.5590697674418605,-0.01333333333333342,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,edge_f1,250070,asymmetric_piecewise,0.2954954954954955,0.3021739130434783,-0.006678417547982818,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,edge_f1,250071,asymmetric_piecewise,0.3610438525692763,0.31754032258064513,0.04350352998863116,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,edge_f1,250072,asymmetric_piecewise,0.44485683987274655,0.45342789598108746,-0.008571056108340913,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,edge_f1,250073,smooth,0.8220720720720721,0.7261904761904763,0.09588159588159584,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,edge_f1,250074,smooth,0.7849462365591398,0.8064516129032258,-0.021505376344086002,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,edge_f1,250075,smooth,0.6780626780626781,0.7165242165242165,-0.038461538461538436,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,edge_f1,250076,smooth,0.8709677419354839,0.8064516129032258,0.06451612903225812,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,edge_f1,250077,mixed_scale,0.45098039215686275,0.4984520123839009,-0.04747162022703816,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,edge_f1,250078,mixed_scale,0.6733333333333333,0.6594202898550725,0.013913043478260834,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,edge_f1,250079,mixed_scale,0.7163348946135831,0.6739241803278688,0.0424107142857143,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,edge_f1,250080,mixed_scale,0.590887174541948,0.5687777329568374,0.022109441585110523,True,,candidate-control absolute
+F6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250065,shell,0.014310737684290309,0.018140156473083813,0.2111017506643649,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250066,shell,0.021515965557580223,0.03184183250699153,0.32428620265947483,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250067,shell,0.016796752386659716,0.024152934263266132,0.304566799065666,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250068,shell,0.013837316111689825,0.016753021147760123,0.17404055127454598,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250069,asymmetric_piecewise,0.01721170571524172,0.020012134675618673,0.1399365437905428,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250070,asymmetric_piecewise,0.012526637041422019,0.019897705353594572,0.3704481587793213,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250071,asymmetric_piecewise,0.01667994656571863,0.026289860615554463,0.3655368961579851,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250072,asymmetric_piecewise,0.012859859474601,0.021004756400422687,0.38776440776327137,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250073,smooth,0.015221066811275706,0.019885188246000683,0.23455254116907978,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250074,smooth,0.015089376415399465,0.02296786926558471,0.3430223656832834,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250075,smooth,0.012609126653766166,0.018629768745229744,0.3231732059478836,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250076,smooth,0.01211708665550838,0.016409263693554832,0.2615703616081395,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250077,mixed_scale,0.016433212177471086,0.01925545858227475,0.14656864144495782,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250078,mixed_scale,0.014772545174633847,0.019966860072600547,0.2601468072135478,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250079,mixed_scale,0.017427088464584073,0.022768641645510575,0.23460131105272708,True,,(control-candidate)/control
+F6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250080,mixed_scale,0.021420000565716683,0.033508183963750965,0.3607531643944427,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250065,shell,0.605201948730271,0.5824488902258224,-0.03906447224172238,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250066,shell,0.6584257130146496,0.6688199248656913,0.01554112170496271,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250067,shell,0.6563069367442145,0.6855366255511306,0.04263767640921766,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250068,shell,0.5568515423827174,0.5377103163320502,-0.035597654479158136,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250069,asymmetric_piecewise,0.48380514329543867,0.4948986486567196,0.02241571156314841,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250070,asymmetric_piecewise,0.8070357127511502,0.8285073186001713,0.02591601228737384,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250071,asymmetric_piecewise,0.757390025267683,0.7887932467232188,0.0398117270729563,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250072,asymmetric_piecewise,0.7421051782188527,0.7659676648762186,0.0311533864307733,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250077,mixed_scale,0.5166813676618227,0.4997651662245609,-0.03384830032283762,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250078,mixed_scale,0.5521787599186525,0.5545423492965571,0.004262234220529477,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250079,mixed_scale,0.5976550902499043,0.6012847627331683,0.006036528294456058,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250080,mixed_scale,0.5961567266469137,0.6223909493132277,0.04215071362342588,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,support_iou,250065,shell,0.6591784338896021,0.6671052631578948,-0.00792682926829269,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,support_iou,250066,shell,0.5650554400554401,0.5365079365079365,0.028547503547503572,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,support_iou,250067,shell,0.6598639455782312,0.6526175687666371,0.007246376811594124,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,support_iou,250068,shell,0.6891891891891893,0.6989489489489489,-0.009759759759759623,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,support_iou,250069,asymmetric_piecewise,0.6673611111111111,0.6814009661835749,-0.014039855072463858,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,support_iou,250070,asymmetric_piecewise,0.31265664160401,0.3091321610890527,0.0035244805149572955,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,support_iou,250071,asymmetric_piecewise,0.4395424836601307,0.36315128688010045,0.07639119678003026,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,support_iou,250072,asymmetric_piecewise,0.49682539682539684,0.4704203425012974,0.026405054324099453,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,support_iou,250077,mixed_scale,0.6078431372549019,0.6202480992396959,-0.012404961984794016,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,support_iou,250078,mixed_scale,0.6292929292929292,0.6154589371980677,0.01383399209486158,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,support_iou,250079,mixed_scale,0.6414281744929147,0.608641289247013,0.032786885245901676,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,support_iou,250080,mixed_scale,0.6599539700805523,0.630229419703104,0.029724550377448367,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,edge_f1,250065,shell,0.7674418604651163,0.7664307381193125,0.0010111223458038054,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,edge_f1,250066,shell,0.6387959866220736,0.6198717948717949,0.018924191750278707,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,edge_f1,250067,shell,0.5265957446808511,0.5053191489361701,0.021276595744680993,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,edge_f1,250068,shell,0.7763012181616833,0.815734989648033,-0.039433771486349745,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,edge_f1,250069,asymmetric_piecewise,0.5457364341085271,0.5590697674418605,-0.01333333333333342,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,edge_f1,250070,asymmetric_piecewise,0.2954954954954955,0.3021739130434783,-0.006678417547982818,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,edge_f1,250071,asymmetric_piecewise,0.3610438525692763,0.31754032258064513,0.04350352998863116,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,edge_f1,250072,asymmetric_piecewise,0.44485683987274655,0.45342789598108746,-0.008571056108340913,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,edge_f1,250077,mixed_scale,0.45098039215686275,0.4984520123839009,-0.04747162022703816,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,edge_f1,250078,mixed_scale,0.6733333333333333,0.6594202898550725,0.013913043478260834,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,edge_f1,250079,mixed_scale,0.7163348946135831,0.6739241803278688,0.0424107142857143,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,edge_f1,250080,mixed_scale,0.590887174541948,0.5687777329568374,0.022109441585110523,True,,candidate-control absolute
+F6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250065,shell,0.014310737684290309,0.018140156473083813,0.2111017506643649,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250066,shell,0.021515965557580223,0.03184183250699153,0.32428620265947483,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250067,shell,0.016796752386659716,0.024152934263266132,0.304566799065666,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250068,shell,0.013837316111689825,0.016753021147760123,0.17404055127454598,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250069,asymmetric_piecewise,0.01721170571524172,0.020012134675618673,0.1399365437905428,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250070,asymmetric_piecewise,0.012526637041422019,0.019897705353594572,0.3704481587793213,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250071,asymmetric_piecewise,0.01667994656571863,0.026289860615554463,0.3655368961579851,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250072,asymmetric_piecewise,0.012859859474601,0.021004756400422687,0.38776440776327137,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250077,mixed_scale,0.016433212177471086,0.01925545858227475,0.14656864144495782,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250078,mixed_scale,0.014772545174633847,0.019966860072600547,0.2601468072135478,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250079,mixed_scale,0.017427088464584073,0.022768641645510575,0.23460131105272708,True,,(control-candidate)/control
+F6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250080,mixed_scale,0.021420000565716683,0.033508183963750965,0.3607531643944427,True,,(control-candidate)/control
+F6_vs_N3,shell,delta_nrmse,250065,shell,0.605201948730271,0.5824488902258224,-0.03906447224172238,True,,(control-candidate)/control
+F6_vs_N3,shell,delta_nrmse,250066,shell,0.6584257130146496,0.6688199248656913,0.01554112170496271,True,,(control-candidate)/control
+F6_vs_N3,shell,delta_nrmse,250067,shell,0.6563069367442145,0.6855366255511306,0.04263767640921766,True,,(control-candidate)/control
+F6_vs_N3,shell,delta_nrmse,250068,shell,0.5568515423827174,0.5377103163320502,-0.035597654479158136,True,,(control-candidate)/control
+F6_vs_N3,shell,support_iou,250065,shell,0.6591784338896021,0.6671052631578948,-0.00792682926829269,True,,candidate-control absolute
+F6_vs_N3,shell,support_iou,250066,shell,0.5650554400554401,0.5365079365079365,0.028547503547503572,True,,candidate-control absolute
+F6_vs_N3,shell,support_iou,250067,shell,0.6598639455782312,0.6526175687666371,0.007246376811594124,True,,candidate-control absolute
+F6_vs_N3,shell,support_iou,250068,shell,0.6891891891891893,0.6989489489489489,-0.009759759759759623,True,,candidate-control absolute
+F6_vs_N3,shell,edge_f1,250065,shell,0.7674418604651163,0.7664307381193125,0.0010111223458038054,True,,candidate-control absolute
+F6_vs_N3,shell,edge_f1,250066,shell,0.6387959866220736,0.6198717948717949,0.018924191750278707,True,,candidate-control absolute
+F6_vs_N3,shell,edge_f1,250067,shell,0.5265957446808511,0.5053191489361701,0.021276595744680993,True,,candidate-control absolute
+F6_vs_N3,shell,edge_f1,250068,shell,0.7763012181616833,0.815734989648033,-0.039433771486349745,True,,candidate-control absolute
+F6_vs_N3,shell,full_data_residual_absolute,250065,shell,0.014310737684290309,0.018140156473083813,0.2111017506643649,True,,(control-candidate)/control
+F6_vs_N3,shell,full_data_residual_absolute,250066,shell,0.021515965557580223,0.03184183250699153,0.32428620265947483,True,,(control-candidate)/control
+F6_vs_N3,shell,full_data_residual_absolute,250067,shell,0.016796752386659716,0.024152934263266132,0.304566799065666,True,,(control-candidate)/control
+F6_vs_N3,shell,full_data_residual_absolute,250068,shell,0.013837316111689825,0.016753021147760123,0.17404055127454598,True,,(control-candidate)/control
+F6_vs_N3,asymmetric_piecewise,delta_nrmse,250069,asymmetric_piecewise,0.48380514329543867,0.4948986486567196,0.02241571156314841,True,,(control-candidate)/control
+F6_vs_N3,asymmetric_piecewise,delta_nrmse,250070,asymmetric_piecewise,0.8070357127511502,0.8285073186001713,0.02591601228737384,True,,(control-candidate)/control
+F6_vs_N3,asymmetric_piecewise,delta_nrmse,250071,asymmetric_piecewise,0.757390025267683,0.7887932467232188,0.0398117270729563,True,,(control-candidate)/control
+F6_vs_N3,asymmetric_piecewise,delta_nrmse,250072,asymmetric_piecewise,0.7421051782188527,0.7659676648762186,0.0311533864307733,True,,(control-candidate)/control
+F6_vs_N3,asymmetric_piecewise,support_iou,250069,asymmetric_piecewise,0.6673611111111111,0.6814009661835749,-0.014039855072463858,True,,candidate-control absolute
+F6_vs_N3,asymmetric_piecewise,support_iou,250070,asymmetric_piecewise,0.31265664160401,0.3091321610890527,0.0035244805149572955,True,,candidate-control absolute
+F6_vs_N3,asymmetric_piecewise,support_iou,250071,asymmetric_piecewise,0.4395424836601307,0.36315128688010045,0.07639119678003026,True,,candidate-control absolute
+F6_vs_N3,asymmetric_piecewise,support_iou,250072,asymmetric_piecewise,0.49682539682539684,0.4704203425012974,0.026405054324099453,True,,candidate-control absolute
+F6_vs_N3,asymmetric_piecewise,edge_f1,250069,asymmetric_piecewise,0.5457364341085271,0.5590697674418605,-0.01333333333333342,True,,candidate-control absolute
+F6_vs_N3,asymmetric_piecewise,edge_f1,250070,asymmetric_piecewise,0.2954954954954955,0.3021739130434783,-0.006678417547982818,True,,candidate-control absolute
+F6_vs_N3,asymmetric_piecewise,edge_f1,250071,asymmetric_piecewise,0.3610438525692763,0.31754032258064513,0.04350352998863116,True,,candidate-control absolute
+F6_vs_N3,asymmetric_piecewise,edge_f1,250072,asymmetric_piecewise,0.44485683987274655,0.45342789598108746,-0.008571056108340913,True,,candidate-control absolute
+F6_vs_N3,asymmetric_piecewise,full_data_residual_absolute,250069,asymmetric_piecewise,0.01721170571524172,0.020012134675618673,0.1399365437905428,True,,(control-candidate)/control
+F6_vs_N3,asymmetric_piecewise,full_data_residual_absolute,250070,asymmetric_piecewise,0.012526637041422019,0.019897705353594572,0.3704481587793213,True,,(control-candidate)/control
+F6_vs_N3,asymmetric_piecewise,full_data_residual_absolute,250071,asymmetric_piecewise,0.01667994656571863,0.026289860615554463,0.3655368961579851,True,,(control-candidate)/control
+F6_vs_N3,asymmetric_piecewise,full_data_residual_absolute,250072,asymmetric_piecewise,0.012859859474601,0.021004756400422687,0.38776440776327137,True,,(control-candidate)/control
+F6_vs_N3,smooth,delta_nrmse,250073,smooth,0.4163989162531585,0.49908850793250603,0.1656812175898268,True,,(control-candidate)/control
+F6_vs_N3,smooth,delta_nrmse,250074,smooth,0.28354868524282245,0.36145869126037555,0.21554331906057528,True,,(control-candidate)/control
+F6_vs_N3,smooth,delta_nrmse,250075,smooth,0.318690873519044,0.38795376346790766,0.17853387818621644,True,,(control-candidate)/control
+F6_vs_N3,smooth,delta_nrmse,250076,smooth,0.2853693302322401,0.31342262912047003,0.08950629687126743,True,,(control-candidate)/control
+F6_vs_N3,smooth,support_iou,250073,smooth,0.919661733615222,0.8800098960910441,0.03965183752417789,True,,candidate-control absolute
+F6_vs_N3,smooth,support_iou,250074,smooth,0.8548387096774193,0.8578629032258065,-0.003024193548387233,True,,candidate-control absolute
+F6_vs_N3,smooth,support_iou,250075,smooth,0.803076923076923,0.823076923076923,-0.020000000000000018,True,,candidate-control absolute
+F6_vs_N3,smooth,support_iou,250076,smooth,0.9182795698924731,0.8909090909090909,0.027370478983382185,True,,candidate-control absolute
+F6_vs_N3,smooth,edge_f1,250073,smooth,0.8220720720720721,0.7261904761904763,0.09588159588159584,True,,candidate-control absolute
+F6_vs_N3,smooth,edge_f1,250074,smooth,0.7849462365591398,0.8064516129032258,-0.021505376344086002,True,,candidate-control absolute
+F6_vs_N3,smooth,edge_f1,250075,smooth,0.6780626780626781,0.7165242165242165,-0.038461538461538436,True,,candidate-control absolute
+F6_vs_N3,smooth,edge_f1,250076,smooth,0.8709677419354839,0.8064516129032258,0.06451612903225812,True,,candidate-control absolute
+F6_vs_N3,smooth,full_data_residual_absolute,250073,smooth,0.015221066811275706,0.019885188246000683,0.23455254116907978,True,,(control-candidate)/control
+F6_vs_N3,smooth,full_data_residual_absolute,250074,smooth,0.015089376415399465,0.02296786926558471,0.3430223656832834,True,,(control-candidate)/control
+F6_vs_N3,smooth,full_data_residual_absolute,250075,smooth,0.012609126653766166,0.018629768745229744,0.3231732059478836,True,,(control-candidate)/control
+F6_vs_N3,smooth,full_data_residual_absolute,250076,smooth,0.01211708665550838,0.016409263693554832,0.2615703616081395,True,,(control-candidate)/control
+F6_vs_N3,mixed_scale,delta_nrmse,250077,mixed_scale,0.5166813676618227,0.4997651662245609,-0.03384830032283762,True,,(control-candidate)/control
+F6_vs_N3,mixed_scale,delta_nrmse,250078,mixed_scale,0.5521787599186525,0.5545423492965571,0.004262234220529477,True,,(control-candidate)/control
+F6_vs_N3,mixed_scale,delta_nrmse,250079,mixed_scale,0.5976550902499043,0.6012847627331683,0.006036528294456058,True,,(control-candidate)/control
+F6_vs_N3,mixed_scale,delta_nrmse,250080,mixed_scale,0.5961567266469137,0.6223909493132277,0.04215071362342588,True,,(control-candidate)/control
+F6_vs_N3,mixed_scale,support_iou,250077,mixed_scale,0.6078431372549019,0.6202480992396959,-0.012404961984794016,True,,candidate-control absolute
+F6_vs_N3,mixed_scale,support_iou,250078,mixed_scale,0.6292929292929292,0.6154589371980677,0.01383399209486158,True,,candidate-control absolute
+F6_vs_N3,mixed_scale,support_iou,250079,mixed_scale,0.6414281744929147,0.608641289247013,0.032786885245901676,True,,candidate-control absolute
+F6_vs_N3,mixed_scale,support_iou,250080,mixed_scale,0.6599539700805523,0.630229419703104,0.029724550377448367,True,,candidate-control absolute
+F6_vs_N3,mixed_scale,edge_f1,250077,mixed_scale,0.45098039215686275,0.4984520123839009,-0.04747162022703816,True,,candidate-control absolute
+F6_vs_N3,mixed_scale,edge_f1,250078,mixed_scale,0.6733333333333333,0.6594202898550725,0.013913043478260834,True,,candidate-control absolute
+F6_vs_N3,mixed_scale,edge_f1,250079,mixed_scale,0.7163348946135831,0.6739241803278688,0.0424107142857143,True,,candidate-control absolute
+F6_vs_N3,mixed_scale,edge_f1,250080,mixed_scale,0.590887174541948,0.5687777329568374,0.022109441585110523,True,,candidate-control absolute
+F6_vs_N3,mixed_scale,full_data_residual_absolute,250077,mixed_scale,0.016433212177471086,0.01925545858227475,0.14656864144495782,True,,(control-candidate)/control
+F6_vs_N3,mixed_scale,full_data_residual_absolute,250078,mixed_scale,0.014772545174633847,0.019966860072600547,0.2601468072135478,True,,(control-candidate)/control
+F6_vs_N3,mixed_scale,full_data_residual_absolute,250079,mixed_scale,0.017427088464584073,0.022768641645510575,0.23460131105272708,True,,(control-candidate)/control
+F6_vs_N3,mixed_scale,full_data_residual_absolute,250080,mixed_scale,0.021420000565716683,0.033508183963750965,0.3607531643944427,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,delta_nrmse,250065,shell,0.605201948730271,0.5842548732553698,-0.03585263287268376,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,delta_nrmse,250066,shell,0.6584257130146496,0.6652933133127013,0.010322665447899606,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,delta_nrmse,250067,shell,0.6563069367442145,0.6784307102444018,0.032610218208160645,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,delta_nrmse,250068,shell,0.5568515423827174,0.5389652307061727,-0.033186392474908476,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,delta_nrmse,250069,asymmetric_piecewise,0.48380514329543867,0.4907679996939463,0.014187674018782445,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,delta_nrmse,250070,asymmetric_piecewise,0.8070357127511502,0.8206299255147806,0.016565582537223275,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,delta_nrmse,250071,asymmetric_piecewise,0.757390025267683,0.7782899662625968,0.026853668813535996,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,delta_nrmse,250072,asymmetric_piecewise,0.7421051782188527,0.7567083465760751,0.019298278422985916,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,delta_nrmse,250073,smooth,0.4163989162531585,0.4855551526374707,0.14242714964235215,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,delta_nrmse,250074,smooth,0.28354868524282245,0.3272141172189946,0.13344605161686288,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,delta_nrmse,250075,smooth,0.318690873519044,0.3537493999593372,0.09910554320183464,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,delta_nrmse,250076,smooth,0.2853693302322401,0.29409223346372626,0.02966043383312284,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,delta_nrmse,250077,mixed_scale,0.5166813676618227,0.49952902796197707,-0.034337022955052844,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,delta_nrmse,250078,mixed_scale,0.5521787599186525,0.5514403462768298,-0.0013390635030756468,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,delta_nrmse,250079,mixed_scale,0.5976550902499043,0.5979057451953926,0.0004192215035606629,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,delta_nrmse,250080,mixed_scale,0.5961567266469137,0.6144286880002463,0.02973813187792644,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,support_iou,250065,shell,0.6591784338896021,0.6591784338896021,0.0,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,support_iou,250066,shell,0.5650554400554401,0.538028413028413,0.027027027027027084,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,support_iou,250067,shell,0.6598639455782312,0.6526175687666371,0.007246376811594124,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,support_iou,250068,shell,0.6891891891891893,0.6891891891891893,0.0,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,support_iou,250069,asymmetric_piecewise,0.6673611111111111,0.6814009661835749,-0.014039855072463858,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,support_iou,250070,asymmetric_piecewise,0.31265664160401,0.3091321610890527,0.0035244805149572955,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,support_iou,250071,asymmetric_piecewise,0.4395424836601307,0.37816764132553604,0.06137484233459467,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,support_iou,250072,asymmetric_piecewise,0.49682539682539684,0.48152173913043483,0.015303657694962003,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,support_iou,250073,smooth,0.919661733615222,0.8800098960910441,0.03965183752417789,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,support_iou,250074,smooth,0.8548387096774193,0.8548387096774193,0.0,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,support_iou,250075,smooth,0.803076923076923,0.803076923076923,0.0,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,support_iou,250076,smooth,0.9182795698924731,0.9041666666666667,0.014112903225806384,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,support_iou,250077,mixed_scale,0.6078431372549019,0.6202480992396959,-0.012404961984794016,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,support_iou,250078,mixed_scale,0.6292929292929292,0.6292929292929292,0.0,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,support_iou,250079,mixed_scale,0.6414281744929147,0.6218926553672317,0.019535519125682965,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,support_iou,250080,mixed_scale,0.6599539700805523,0.6406356801093643,0.019318289971188007,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,edge_f1,250065,shell,0.7674418604651163,0.7674418604651163,0.0,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,edge_f1,250066,shell,0.6387959866220736,0.6045997346306944,0.03419625199137921,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,edge_f1,250067,shell,0.5265957446808511,0.5053191489361701,0.021276595744680993,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,edge_f1,250068,shell,0.7763012181616833,0.7763012181616833,0.0,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,edge_f1,250069,asymmetric_piecewise,0.5457364341085271,0.5590697674418605,-0.01333333333333342,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,edge_f1,250070,asymmetric_piecewise,0.2954954954954955,0.3021739130434783,-0.006678417547982818,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,edge_f1,250071,asymmetric_piecewise,0.3610438525692763,0.3358934971838198,0.025150355385456513,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,edge_f1,250072,asymmetric_piecewise,0.44485683987274655,0.4565217391304348,-0.011664899257688266,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,edge_f1,250073,smooth,0.8220720720720721,0.7261904761904763,0.09588159588159584,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,edge_f1,250074,smooth,0.7849462365591398,0.7849462365591398,0.0,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,edge_f1,250075,smooth,0.6780626780626781,0.6780626780626781,0.0,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,edge_f1,250076,smooth,0.8709677419354839,0.8387096774193548,0.032258064516129115,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,edge_f1,250077,mixed_scale,0.45098039215686275,0.4984520123839009,-0.04747162022703816,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,edge_f1,250078,mixed_scale,0.6733333333333333,0.6733333333333333,0.0,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,edge_f1,250079,mixed_scale,0.7163348946135831,0.7051741803278688,0.011160714285714302,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,edge_f1,250080,mixed_scale,0.590887174541948,0.5762852404643449,0.014601934077603018,True,,candidate-control absolute
+F6_vs_F1,ALL_FAMILIES,full_data_residual_absolute,250065,shell,0.014310737684290309,0.01547455649640351,0.07520854070251956,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,full_data_residual_absolute,250066,shell,0.021515965557580223,0.0249823067141658,0.13875184530578374,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,full_data_residual_absolute,250067,shell,0.016796752386659716,0.019241387165711103,0.1270508595870791,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,full_data_residual_absolute,250068,shell,0.013837316111689825,0.014950986673956796,0.0744880981137439,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,full_data_residual_absolute,250069,asymmetric_piecewise,0.01721170571524172,0.017980681634036856,0.04276678350944652,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,full_data_residual_absolute,250070,asymmetric_piecewise,0.012526637041422019,0.01568427575728188,0.20132512107827716,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,full_data_residual_absolute,250071,asymmetric_piecewise,0.01667994656571863,0.021574402045976757,0.2268640155044694,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,full_data_residual_absolute,250072,asymmetric_piecewise,0.012859859474601,0.01597619933147305,0.19506140304176556,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,full_data_residual_absolute,250073,smooth,0.015221066811275706,0.016810709143716518,0.09456128940491398,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,full_data_residual_absolute,250074,smooth,0.015089376415399465,0.01771561873916662,0.14824445944757889,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,full_data_residual_absolute,250075,smooth,0.012609126653766166,0.014217043300253182,0.11309782298112446,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,full_data_residual_absolute,250076,smooth,0.01211708665550838,0.013287724683527232,0.08809920854772756,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,full_data_residual_absolute,250077,mixed_scale,0.016433212177471086,0.017162109570722242,0.04247131684176061,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,full_data_residual_absolute,250078,mixed_scale,0.014772545174633847,0.01688430271178356,0.12507223858737834,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,full_data_residual_absolute,250079,mixed_scale,0.017427088464584073,0.019078371396592665,0.08655261487904077,True,,(control-candidate)/control
+F6_vs_F1,ALL_FAMILIES,full_data_residual_absolute,250080,mixed_scale,0.021420000565716683,0.026993457833148025,0.20647437248988249,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,delta_nrmse,250065,shell,0.605201948730271,0.5842548732553698,-0.03585263287268376,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,delta_nrmse,250066,shell,0.6584257130146496,0.6652933133127013,0.010322665447899606,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,delta_nrmse,250067,shell,0.6563069367442145,0.6784307102444018,0.032610218208160645,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,delta_nrmse,250068,shell,0.5568515423827174,0.5389652307061727,-0.033186392474908476,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,delta_nrmse,250069,asymmetric_piecewise,0.48380514329543867,0.4907679996939463,0.014187674018782445,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,delta_nrmse,250070,asymmetric_piecewise,0.8070357127511502,0.8206299255147806,0.016565582537223275,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,delta_nrmse,250071,asymmetric_piecewise,0.757390025267683,0.7782899662625968,0.026853668813535996,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,delta_nrmse,250072,asymmetric_piecewise,0.7421051782188527,0.7567083465760751,0.019298278422985916,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,delta_nrmse,250077,mixed_scale,0.5166813676618227,0.49952902796197707,-0.034337022955052844,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,delta_nrmse,250078,mixed_scale,0.5521787599186525,0.5514403462768298,-0.0013390635030756468,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,delta_nrmse,250079,mixed_scale,0.5976550902499043,0.5979057451953926,0.0004192215035606629,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,delta_nrmse,250080,mixed_scale,0.5961567266469137,0.6144286880002463,0.02973813187792644,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,support_iou,250065,shell,0.6591784338896021,0.6591784338896021,0.0,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,support_iou,250066,shell,0.5650554400554401,0.538028413028413,0.027027027027027084,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,support_iou,250067,shell,0.6598639455782312,0.6526175687666371,0.007246376811594124,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,support_iou,250068,shell,0.6891891891891893,0.6891891891891893,0.0,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,support_iou,250069,asymmetric_piecewise,0.6673611111111111,0.6814009661835749,-0.014039855072463858,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,support_iou,250070,asymmetric_piecewise,0.31265664160401,0.3091321610890527,0.0035244805149572955,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,support_iou,250071,asymmetric_piecewise,0.4395424836601307,0.37816764132553604,0.06137484233459467,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,support_iou,250072,asymmetric_piecewise,0.49682539682539684,0.48152173913043483,0.015303657694962003,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,support_iou,250077,mixed_scale,0.6078431372549019,0.6202480992396959,-0.012404961984794016,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,support_iou,250078,mixed_scale,0.6292929292929292,0.6292929292929292,0.0,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,support_iou,250079,mixed_scale,0.6414281744929147,0.6218926553672317,0.019535519125682965,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,support_iou,250080,mixed_scale,0.6599539700805523,0.6406356801093643,0.019318289971188007,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,edge_f1,250065,shell,0.7674418604651163,0.7674418604651163,0.0,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,edge_f1,250066,shell,0.6387959866220736,0.6045997346306944,0.03419625199137921,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,edge_f1,250067,shell,0.5265957446808511,0.5053191489361701,0.021276595744680993,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,edge_f1,250068,shell,0.7763012181616833,0.7763012181616833,0.0,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,edge_f1,250069,asymmetric_piecewise,0.5457364341085271,0.5590697674418605,-0.01333333333333342,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,edge_f1,250070,asymmetric_piecewise,0.2954954954954955,0.3021739130434783,-0.006678417547982818,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,edge_f1,250071,asymmetric_piecewise,0.3610438525692763,0.3358934971838198,0.025150355385456513,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,edge_f1,250072,asymmetric_piecewise,0.44485683987274655,0.4565217391304348,-0.011664899257688266,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,edge_f1,250077,mixed_scale,0.45098039215686275,0.4984520123839009,-0.04747162022703816,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,edge_f1,250078,mixed_scale,0.6733333333333333,0.6733333333333333,0.0,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,edge_f1,250079,mixed_scale,0.7163348946135831,0.7051741803278688,0.011160714285714302,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,edge_f1,250080,mixed_scale,0.590887174541948,0.5762852404643449,0.014601934077603018,True,,candidate-control absolute
+F6_vs_F1,COMPLEX_FAMILIES,full_data_residual_absolute,250065,shell,0.014310737684290309,0.01547455649640351,0.07520854070251956,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,full_data_residual_absolute,250066,shell,0.021515965557580223,0.0249823067141658,0.13875184530578374,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,full_data_residual_absolute,250067,shell,0.016796752386659716,0.019241387165711103,0.1270508595870791,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,full_data_residual_absolute,250068,shell,0.013837316111689825,0.014950986673956796,0.0744880981137439,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,full_data_residual_absolute,250069,asymmetric_piecewise,0.01721170571524172,0.017980681634036856,0.04276678350944652,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,full_data_residual_absolute,250070,asymmetric_piecewise,0.012526637041422019,0.01568427575728188,0.20132512107827716,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,full_data_residual_absolute,250071,asymmetric_piecewise,0.01667994656571863,0.021574402045976757,0.2268640155044694,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,full_data_residual_absolute,250072,asymmetric_piecewise,0.012859859474601,0.01597619933147305,0.19506140304176556,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,full_data_residual_absolute,250077,mixed_scale,0.016433212177471086,0.017162109570722242,0.04247131684176061,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,full_data_residual_absolute,250078,mixed_scale,0.014772545174633847,0.01688430271178356,0.12507223858737834,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,full_data_residual_absolute,250079,mixed_scale,0.017427088464584073,0.019078371396592665,0.08655261487904077,True,,(control-candidate)/control
+F6_vs_F1,COMPLEX_FAMILIES,full_data_residual_absolute,250080,mixed_scale,0.021420000565716683,0.026993457833148025,0.20647437248988249,True,,(control-candidate)/control
+F6_vs_F1,shell,delta_nrmse,250065,shell,0.605201948730271,0.5842548732553698,-0.03585263287268376,True,,(control-candidate)/control
+F6_vs_F1,shell,delta_nrmse,250066,shell,0.6584257130146496,0.6652933133127013,0.010322665447899606,True,,(control-candidate)/control
+F6_vs_F1,shell,delta_nrmse,250067,shell,0.6563069367442145,0.6784307102444018,0.032610218208160645,True,,(control-candidate)/control
+F6_vs_F1,shell,delta_nrmse,250068,shell,0.5568515423827174,0.5389652307061727,-0.033186392474908476,True,,(control-candidate)/control
+F6_vs_F1,shell,support_iou,250065,shell,0.6591784338896021,0.6591784338896021,0.0,True,,candidate-control absolute
+F6_vs_F1,shell,support_iou,250066,shell,0.5650554400554401,0.538028413028413,0.027027027027027084,True,,candidate-control absolute
+F6_vs_F1,shell,support_iou,250067,shell,0.6598639455782312,0.6526175687666371,0.007246376811594124,True,,candidate-control absolute
+F6_vs_F1,shell,support_iou,250068,shell,0.6891891891891893,0.6891891891891893,0.0,True,,candidate-control absolute
+F6_vs_F1,shell,edge_f1,250065,shell,0.7674418604651163,0.7674418604651163,0.0,True,,candidate-control absolute
+F6_vs_F1,shell,edge_f1,250066,shell,0.6387959866220736,0.6045997346306944,0.03419625199137921,True,,candidate-control absolute
+F6_vs_F1,shell,edge_f1,250067,shell,0.5265957446808511,0.5053191489361701,0.021276595744680993,True,,candidate-control absolute
+F6_vs_F1,shell,edge_f1,250068,shell,0.7763012181616833,0.7763012181616833,0.0,True,,candidate-control absolute
+F6_vs_F1,shell,full_data_residual_absolute,250065,shell,0.014310737684290309,0.01547455649640351,0.07520854070251956,True,,(control-candidate)/control
+F6_vs_F1,shell,full_data_residual_absolute,250066,shell,0.021515965557580223,0.0249823067141658,0.13875184530578374,True,,(control-candidate)/control
+F6_vs_F1,shell,full_data_residual_absolute,250067,shell,0.016796752386659716,0.019241387165711103,0.1270508595870791,True,,(control-candidate)/control
+F6_vs_F1,shell,full_data_residual_absolute,250068,shell,0.013837316111689825,0.014950986673956796,0.0744880981137439,True,,(control-candidate)/control
+F6_vs_F1,asymmetric_piecewise,delta_nrmse,250069,asymmetric_piecewise,0.48380514329543867,0.4907679996939463,0.014187674018782445,True,,(control-candidate)/control
+F6_vs_F1,asymmetric_piecewise,delta_nrmse,250070,asymmetric_piecewise,0.8070357127511502,0.8206299255147806,0.016565582537223275,True,,(control-candidate)/control
+F6_vs_F1,asymmetric_piecewise,delta_nrmse,250071,asymmetric_piecewise,0.757390025267683,0.7782899662625968,0.026853668813535996,True,,(control-candidate)/control
+F6_vs_F1,asymmetric_piecewise,delta_nrmse,250072,asymmetric_piecewise,0.7421051782188527,0.7567083465760751,0.019298278422985916,True,,(control-candidate)/control
+F6_vs_F1,asymmetric_piecewise,support_iou,250069,asymmetric_piecewise,0.6673611111111111,0.6814009661835749,-0.014039855072463858,True,,candidate-control absolute
+F6_vs_F1,asymmetric_piecewise,support_iou,250070,asymmetric_piecewise,0.31265664160401,0.3091321610890527,0.0035244805149572955,True,,candidate-control absolute
+F6_vs_F1,asymmetric_piecewise,support_iou,250071,asymmetric_piecewise,0.4395424836601307,0.37816764132553604,0.06137484233459467,True,,candidate-control absolute
+F6_vs_F1,asymmetric_piecewise,support_iou,250072,asymmetric_piecewise,0.49682539682539684,0.48152173913043483,0.015303657694962003,True,,candidate-control absolute
+F6_vs_F1,asymmetric_piecewise,edge_f1,250069,asymmetric_piecewise,0.5457364341085271,0.5590697674418605,-0.01333333333333342,True,,candidate-control absolute
+F6_vs_F1,asymmetric_piecewise,edge_f1,250070,asymmetric_piecewise,0.2954954954954955,0.3021739130434783,-0.006678417547982818,True,,candidate-control absolute
+F6_vs_F1,asymmetric_piecewise,edge_f1,250071,asymmetric_piecewise,0.3610438525692763,0.3358934971838198,0.025150355385456513,True,,candidate-control absolute
+F6_vs_F1,asymmetric_piecewise,edge_f1,250072,asymmetric_piecewise,0.44485683987274655,0.4565217391304348,-0.011664899257688266,True,,candidate-control absolute
+F6_vs_F1,asymmetric_piecewise,full_data_residual_absolute,250069,asymmetric_piecewise,0.01721170571524172,0.017980681634036856,0.04276678350944652,True,,(control-candidate)/control
+F6_vs_F1,asymmetric_piecewise,full_data_residual_absolute,250070,asymmetric_piecewise,0.012526637041422019,0.01568427575728188,0.20132512107827716,True,,(control-candidate)/control
+F6_vs_F1,asymmetric_piecewise,full_data_residual_absolute,250071,asymmetric_piecewise,0.01667994656571863,0.021574402045976757,0.2268640155044694,True,,(control-candidate)/control
+F6_vs_F1,asymmetric_piecewise,full_data_residual_absolute,250072,asymmetric_piecewise,0.012859859474601,0.01597619933147305,0.19506140304176556,True,,(control-candidate)/control
+F6_vs_F1,smooth,delta_nrmse,250073,smooth,0.4163989162531585,0.4855551526374707,0.14242714964235215,True,,(control-candidate)/control
+F6_vs_F1,smooth,delta_nrmse,250074,smooth,0.28354868524282245,0.3272141172189946,0.13344605161686288,True,,(control-candidate)/control
+F6_vs_F1,smooth,delta_nrmse,250075,smooth,0.318690873519044,0.3537493999593372,0.09910554320183464,True,,(control-candidate)/control
+F6_vs_F1,smooth,delta_nrmse,250076,smooth,0.2853693302322401,0.29409223346372626,0.02966043383312284,True,,(control-candidate)/control
+F6_vs_F1,smooth,support_iou,250073,smooth,0.919661733615222,0.8800098960910441,0.03965183752417789,True,,candidate-control absolute
+F6_vs_F1,smooth,support_iou,250074,smooth,0.8548387096774193,0.8548387096774193,0.0,True,,candidate-control absolute
+F6_vs_F1,smooth,support_iou,250075,smooth,0.803076923076923,0.803076923076923,0.0,True,,candidate-control absolute
+F6_vs_F1,smooth,support_iou,250076,smooth,0.9182795698924731,0.9041666666666667,0.014112903225806384,True,,candidate-control absolute
+F6_vs_F1,smooth,edge_f1,250073,smooth,0.8220720720720721,0.7261904761904763,0.09588159588159584,True,,candidate-control absolute
+F6_vs_F1,smooth,edge_f1,250074,smooth,0.7849462365591398,0.7849462365591398,0.0,True,,candidate-control absolute
+F6_vs_F1,smooth,edge_f1,250075,smooth,0.6780626780626781,0.6780626780626781,0.0,True,,candidate-control absolute
+F6_vs_F1,smooth,edge_f1,250076,smooth,0.8709677419354839,0.8387096774193548,0.032258064516129115,True,,candidate-control absolute
+F6_vs_F1,smooth,full_data_residual_absolute,250073,smooth,0.015221066811275706,0.016810709143716518,0.09456128940491398,True,,(control-candidate)/control
+F6_vs_F1,smooth,full_data_residual_absolute,250074,smooth,0.015089376415399465,0.01771561873916662,0.14824445944757889,True,,(control-candidate)/control
+F6_vs_F1,smooth,full_data_residual_absolute,250075,smooth,0.012609126653766166,0.014217043300253182,0.11309782298112446,True,,(control-candidate)/control
+F6_vs_F1,smooth,full_data_residual_absolute,250076,smooth,0.01211708665550838,0.013287724683527232,0.08809920854772756,True,,(control-candidate)/control
+F6_vs_F1,mixed_scale,delta_nrmse,250077,mixed_scale,0.5166813676618227,0.49952902796197707,-0.034337022955052844,True,,(control-candidate)/control
+F6_vs_F1,mixed_scale,delta_nrmse,250078,mixed_scale,0.5521787599186525,0.5514403462768298,-0.0013390635030756468,True,,(control-candidate)/control
+F6_vs_F1,mixed_scale,delta_nrmse,250079,mixed_scale,0.5976550902499043,0.5979057451953926,0.0004192215035606629,True,,(control-candidate)/control
+F6_vs_F1,mixed_scale,delta_nrmse,250080,mixed_scale,0.5961567266469137,0.6144286880002463,0.02973813187792644,True,,(control-candidate)/control
+F6_vs_F1,mixed_scale,support_iou,250077,mixed_scale,0.6078431372549019,0.6202480992396959,-0.012404961984794016,True,,candidate-control absolute
+F6_vs_F1,mixed_scale,support_iou,250078,mixed_scale,0.6292929292929292,0.6292929292929292,0.0,True,,candidate-control absolute
+F6_vs_F1,mixed_scale,support_iou,250079,mixed_scale,0.6414281744929147,0.6218926553672317,0.019535519125682965,True,,candidate-control absolute
+F6_vs_F1,mixed_scale,support_iou,250080,mixed_scale,0.6599539700805523,0.6406356801093643,0.019318289971188007,True,,candidate-control absolute
+F6_vs_F1,mixed_scale,edge_f1,250077,mixed_scale,0.45098039215686275,0.4984520123839009,-0.04747162022703816,True,,candidate-control absolute
+F6_vs_F1,mixed_scale,edge_f1,250078,mixed_scale,0.6733333333333333,0.6733333333333333,0.0,True,,candidate-control absolute
+F6_vs_F1,mixed_scale,edge_f1,250079,mixed_scale,0.7163348946135831,0.7051741803278688,0.011160714285714302,True,,candidate-control absolute
+F6_vs_F1,mixed_scale,edge_f1,250080,mixed_scale,0.590887174541948,0.5762852404643449,0.014601934077603018,True,,candidate-control absolute
+F6_vs_F1,mixed_scale,full_data_residual_absolute,250077,mixed_scale,0.016433212177471086,0.017162109570722242,0.04247131684176061,True,,(control-candidate)/control
+F6_vs_F1,mixed_scale,full_data_residual_absolute,250078,mixed_scale,0.014772545174633847,0.01688430271178356,0.12507223858737834,True,,(control-candidate)/control
+F6_vs_F1,mixed_scale,full_data_residual_absolute,250079,mixed_scale,0.017427088464584073,0.019078371396592665,0.08655261487904077,True,,(control-candidate)/control
+F6_vs_F1,mixed_scale,full_data_residual_absolute,250080,mixed_scale,0.021420000565716683,0.026993457833148025,0.20647437248988249,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,delta_nrmse,250065,shell,0.5842548732553698,0.5824488902258224,-0.0031006721102125982,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,delta_nrmse,250066,shell,0.6652933133127013,0.6688199248656913,0.0052728865003509725,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,delta_nrmse,250067,shell,0.6784307102444018,0.6855366255511306,0.010365478724081357,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,delta_nrmse,250068,shell,0.5389652307061727,0.5377103163320502,-0.0023338112288468055,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,delta_nrmse,250069,asymmetric_piecewise,0.4907679996939463,0.4948986486567196,0.008346454317434384,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,delta_nrmse,250070,asymmetric_piecewise,0.8206299255147806,0.8285073186001713,0.009507934219217501,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,delta_nrmse,250071,asymmetric_piecewise,0.7782899662625968,0.7887932467232188,0.013315631826533,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,delta_nrmse,250072,asymmetric_piecewise,0.7567083465760751,0.7659676648762186,0.012088393185161151,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,delta_nrmse,250073,smooth,0.4855551526374707,0.49908850793250603,0.02711614288835825,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,delta_nrmse,250074,smooth,0.3272141172189946,0.36145869126037555,0.0947399381156752,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,delta_nrmse,250075,smooth,0.3537493999593372,0.38795376346790766,0.08816608248059936,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,delta_nrmse,250076,smooth,0.29409223346372626,0.31342262912047003,0.06167517550021495,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,delta_nrmse,250077,mixed_scale,0.49952902796197707,0.4997651662245609,0.0004724984423538949,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,delta_nrmse,250078,mixed_scale,0.5514403462768298,0.5545423492965571,0.005593807260459402,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,delta_nrmse,250079,mixed_scale,0.5979057451953926,0.6012847627331683,0.005619662674331232,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,delta_nrmse,250080,mixed_scale,0.6144286880002463,0.6223909493132277,0.012793022330686656,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,support_iou,250065,shell,0.6591784338896021,0.6671052631578948,-0.00792682926829269,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,support_iou,250066,shell,0.538028413028413,0.5365079365079365,0.001520476520476488,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,support_iou,250067,shell,0.6526175687666371,0.6526175687666371,0.0,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,support_iou,250068,shell,0.6891891891891893,0.6989489489489489,-0.009759759759759623,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,support_iou,250069,asymmetric_piecewise,0.6814009661835749,0.6814009661835749,0.0,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,support_iou,250070,asymmetric_piecewise,0.3091321610890527,0.3091321610890527,0.0,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,support_iou,250071,asymmetric_piecewise,0.37816764132553604,0.36315128688010045,0.015016354445435587,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,support_iou,250072,asymmetric_piecewise,0.48152173913043483,0.4704203425012974,0.01110139662913745,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,support_iou,250073,smooth,0.8800098960910441,0.8800098960910441,0.0,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,support_iou,250074,smooth,0.8548387096774193,0.8578629032258065,-0.003024193548387233,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,support_iou,250075,smooth,0.803076923076923,0.823076923076923,-0.020000000000000018,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,support_iou,250076,smooth,0.9041666666666667,0.8909090909090909,0.013257575757575801,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,support_iou,250077,mixed_scale,0.6202480992396959,0.6202480992396959,0.0,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,support_iou,250078,mixed_scale,0.6292929292929292,0.6154589371980677,0.01383399209486158,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,support_iou,250079,mixed_scale,0.6218926553672317,0.608641289247013,0.01325136612021871,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,support_iou,250080,mixed_scale,0.6406356801093643,0.630229419703104,0.01040626040626036,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,edge_f1,250065,shell,0.7674418604651163,0.7664307381193125,0.0010111223458038054,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,edge_f1,250066,shell,0.6045997346306944,0.6198717948717949,-0.015272060241100505,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,edge_f1,250067,shell,0.5053191489361701,0.5053191489361701,0.0,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,edge_f1,250068,shell,0.7763012181616833,0.815734989648033,-0.039433771486349745,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,edge_f1,250069,asymmetric_piecewise,0.5590697674418605,0.5590697674418605,0.0,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,edge_f1,250070,asymmetric_piecewise,0.3021739130434783,0.3021739130434783,0.0,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,edge_f1,250071,asymmetric_piecewise,0.3358934971838198,0.31754032258064513,0.01835317460317465,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,edge_f1,250072,asymmetric_piecewise,0.4565217391304348,0.45342789598108746,0.003093843149347353,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,edge_f1,250073,smooth,0.7261904761904763,0.7261904761904763,0.0,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,edge_f1,250074,smooth,0.7849462365591398,0.8064516129032258,-0.021505376344086002,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,edge_f1,250075,smooth,0.6780626780626781,0.7165242165242165,-0.038461538461538436,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,edge_f1,250076,smooth,0.8387096774193548,0.8064516129032258,0.032258064516129004,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,edge_f1,250077,mixed_scale,0.4984520123839009,0.4984520123839009,0.0,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,edge_f1,250078,mixed_scale,0.6733333333333333,0.6594202898550725,0.013913043478260834,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,edge_f1,250079,mixed_scale,0.7051741803278688,0.6739241803278688,0.03125,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,edge_f1,250080,mixed_scale,0.5762852404643449,0.5687777329568374,0.007507507507507505,True,,candidate-control absolute
+F1_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250065,shell,0.01547455649640351,0.018140156473083813,0.14694470693433617,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250066,shell,0.0249823067141658,0.03184183250699153,0.21542496938012545,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250067,shell,0.019241387165711103,0.024152934263266132,0.2033519838218967,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250068,shell,0.014950986673956796,0.016753021147760123,0.10756474655583295,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250069,asymmetric_piecewise,0.017980681634036856,0.020012134675618673,0.10151106188870453,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250070,asymmetric_piecewise,0.01568427575728188,0.019897705353594572,0.21175454764443602,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250071,asymmetric_piecewise,0.021574402045976757,0.026289860615554463,0.17936415253520946,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250072,asymmetric_piecewise,0.01597619933147305,0.021004756400422687,0.23940087535832816,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250073,smooth,0.016810709143716518,0.019885188246000683,0.15461151608169993,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250074,smooth,0.01771561873916662,0.02296786926558471,0.22867817931583737,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250075,smooth,0.014217043300253182,0.018629768745229744,0.23686420939102987,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250076,smooth,0.013287724683527232,0.016409263693554832,0.19023029115277526,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250077,mixed_scale,0.017162109570722242,0.01925545858227475,0.10871457579719758,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250078,mixed_scale,0.01688430271178356,0.019966860072600547,0.15438368124024746,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250079,mixed_scale,0.019078371396592665,0.022768641645510575,0.16207687337577917,True,,(control-candidate)/control
+F1_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250080,mixed_scale,0.026993457833148025,0.033508183963750965,0.19442193995504345,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250065,shell,0.5842548732553698,0.5824488902258224,-0.0031006721102125982,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250066,shell,0.6652933133127013,0.6688199248656913,0.0052728865003509725,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250067,shell,0.6784307102444018,0.6855366255511306,0.010365478724081357,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250068,shell,0.5389652307061727,0.5377103163320502,-0.0023338112288468055,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250069,asymmetric_piecewise,0.4907679996939463,0.4948986486567196,0.008346454317434384,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250070,asymmetric_piecewise,0.8206299255147806,0.8285073186001713,0.009507934219217501,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250071,asymmetric_piecewise,0.7782899662625968,0.7887932467232188,0.013315631826533,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250072,asymmetric_piecewise,0.7567083465760751,0.7659676648762186,0.012088393185161151,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250077,mixed_scale,0.49952902796197707,0.4997651662245609,0.0004724984423538949,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250078,mixed_scale,0.5514403462768298,0.5545423492965571,0.005593807260459402,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250079,mixed_scale,0.5979057451953926,0.6012847627331683,0.005619662674331232,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250080,mixed_scale,0.6144286880002463,0.6223909493132277,0.012793022330686656,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,support_iou,250065,shell,0.6591784338896021,0.6671052631578948,-0.00792682926829269,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,support_iou,250066,shell,0.538028413028413,0.5365079365079365,0.001520476520476488,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,support_iou,250067,shell,0.6526175687666371,0.6526175687666371,0.0,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,support_iou,250068,shell,0.6891891891891893,0.6989489489489489,-0.009759759759759623,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,support_iou,250069,asymmetric_piecewise,0.6814009661835749,0.6814009661835749,0.0,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,support_iou,250070,asymmetric_piecewise,0.3091321610890527,0.3091321610890527,0.0,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,support_iou,250071,asymmetric_piecewise,0.37816764132553604,0.36315128688010045,0.015016354445435587,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,support_iou,250072,asymmetric_piecewise,0.48152173913043483,0.4704203425012974,0.01110139662913745,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,support_iou,250077,mixed_scale,0.6202480992396959,0.6202480992396959,0.0,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,support_iou,250078,mixed_scale,0.6292929292929292,0.6154589371980677,0.01383399209486158,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,support_iou,250079,mixed_scale,0.6218926553672317,0.608641289247013,0.01325136612021871,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,support_iou,250080,mixed_scale,0.6406356801093643,0.630229419703104,0.01040626040626036,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,edge_f1,250065,shell,0.7674418604651163,0.7664307381193125,0.0010111223458038054,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,edge_f1,250066,shell,0.6045997346306944,0.6198717948717949,-0.015272060241100505,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,edge_f1,250067,shell,0.5053191489361701,0.5053191489361701,0.0,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,edge_f1,250068,shell,0.7763012181616833,0.815734989648033,-0.039433771486349745,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,edge_f1,250069,asymmetric_piecewise,0.5590697674418605,0.5590697674418605,0.0,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,edge_f1,250070,asymmetric_piecewise,0.3021739130434783,0.3021739130434783,0.0,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,edge_f1,250071,asymmetric_piecewise,0.3358934971838198,0.31754032258064513,0.01835317460317465,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,edge_f1,250072,asymmetric_piecewise,0.4565217391304348,0.45342789598108746,0.003093843149347353,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,edge_f1,250077,mixed_scale,0.4984520123839009,0.4984520123839009,0.0,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,edge_f1,250078,mixed_scale,0.6733333333333333,0.6594202898550725,0.013913043478260834,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,edge_f1,250079,mixed_scale,0.7051741803278688,0.6739241803278688,0.03125,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,edge_f1,250080,mixed_scale,0.5762852404643449,0.5687777329568374,0.007507507507507505,True,,candidate-control absolute
+F1_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250065,shell,0.01547455649640351,0.018140156473083813,0.14694470693433617,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250066,shell,0.0249823067141658,0.03184183250699153,0.21542496938012545,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250067,shell,0.019241387165711103,0.024152934263266132,0.2033519838218967,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250068,shell,0.014950986673956796,0.016753021147760123,0.10756474655583295,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250069,asymmetric_piecewise,0.017980681634036856,0.020012134675618673,0.10151106188870453,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250070,asymmetric_piecewise,0.01568427575728188,0.019897705353594572,0.21175454764443602,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250071,asymmetric_piecewise,0.021574402045976757,0.026289860615554463,0.17936415253520946,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250072,asymmetric_piecewise,0.01597619933147305,0.021004756400422687,0.23940087535832816,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250077,mixed_scale,0.017162109570722242,0.01925545858227475,0.10871457579719758,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250078,mixed_scale,0.01688430271178356,0.019966860072600547,0.15438368124024746,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250079,mixed_scale,0.019078371396592665,0.022768641645510575,0.16207687337577917,True,,(control-candidate)/control
+F1_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250080,mixed_scale,0.026993457833148025,0.033508183963750965,0.19442193995504345,True,,(control-candidate)/control
+F1_vs_N3,shell,delta_nrmse,250065,shell,0.5842548732553698,0.5824488902258224,-0.0031006721102125982,True,,(control-candidate)/control
+F1_vs_N3,shell,delta_nrmse,250066,shell,0.6652933133127013,0.6688199248656913,0.0052728865003509725,True,,(control-candidate)/control
+F1_vs_N3,shell,delta_nrmse,250067,shell,0.6784307102444018,0.6855366255511306,0.010365478724081357,True,,(control-candidate)/control
+F1_vs_N3,shell,delta_nrmse,250068,shell,0.5389652307061727,0.5377103163320502,-0.0023338112288468055,True,,(control-candidate)/control
+F1_vs_N3,shell,support_iou,250065,shell,0.6591784338896021,0.6671052631578948,-0.00792682926829269,True,,candidate-control absolute
+F1_vs_N3,shell,support_iou,250066,shell,0.538028413028413,0.5365079365079365,0.001520476520476488,True,,candidate-control absolute
+F1_vs_N3,shell,support_iou,250067,shell,0.6526175687666371,0.6526175687666371,0.0,True,,candidate-control absolute
+F1_vs_N3,shell,support_iou,250068,shell,0.6891891891891893,0.6989489489489489,-0.009759759759759623,True,,candidate-control absolute
+F1_vs_N3,shell,edge_f1,250065,shell,0.7674418604651163,0.7664307381193125,0.0010111223458038054,True,,candidate-control absolute
+F1_vs_N3,shell,edge_f1,250066,shell,0.6045997346306944,0.6198717948717949,-0.015272060241100505,True,,candidate-control absolute
+F1_vs_N3,shell,edge_f1,250067,shell,0.5053191489361701,0.5053191489361701,0.0,True,,candidate-control absolute
+F1_vs_N3,shell,edge_f1,250068,shell,0.7763012181616833,0.815734989648033,-0.039433771486349745,True,,candidate-control absolute
+F1_vs_N3,shell,full_data_residual_absolute,250065,shell,0.01547455649640351,0.018140156473083813,0.14694470693433617,True,,(control-candidate)/control
+F1_vs_N3,shell,full_data_residual_absolute,250066,shell,0.0249823067141658,0.03184183250699153,0.21542496938012545,True,,(control-candidate)/control
+F1_vs_N3,shell,full_data_residual_absolute,250067,shell,0.019241387165711103,0.024152934263266132,0.2033519838218967,True,,(control-candidate)/control
+F1_vs_N3,shell,full_data_residual_absolute,250068,shell,0.014950986673956796,0.016753021147760123,0.10756474655583295,True,,(control-candidate)/control
+F1_vs_N3,asymmetric_piecewise,delta_nrmse,250069,asymmetric_piecewise,0.4907679996939463,0.4948986486567196,0.008346454317434384,True,,(control-candidate)/control
+F1_vs_N3,asymmetric_piecewise,delta_nrmse,250070,asymmetric_piecewise,0.8206299255147806,0.8285073186001713,0.009507934219217501,True,,(control-candidate)/control
+F1_vs_N3,asymmetric_piecewise,delta_nrmse,250071,asymmetric_piecewise,0.7782899662625968,0.7887932467232188,0.013315631826533,True,,(control-candidate)/control
+F1_vs_N3,asymmetric_piecewise,delta_nrmse,250072,asymmetric_piecewise,0.7567083465760751,0.7659676648762186,0.012088393185161151,True,,(control-candidate)/control
+F1_vs_N3,asymmetric_piecewise,support_iou,250069,asymmetric_piecewise,0.6814009661835749,0.6814009661835749,0.0,True,,candidate-control absolute
+F1_vs_N3,asymmetric_piecewise,support_iou,250070,asymmetric_piecewise,0.3091321610890527,0.3091321610890527,0.0,True,,candidate-control absolute
+F1_vs_N3,asymmetric_piecewise,support_iou,250071,asymmetric_piecewise,0.37816764132553604,0.36315128688010045,0.015016354445435587,True,,candidate-control absolute
+F1_vs_N3,asymmetric_piecewise,support_iou,250072,asymmetric_piecewise,0.48152173913043483,0.4704203425012974,0.01110139662913745,True,,candidate-control absolute
+F1_vs_N3,asymmetric_piecewise,edge_f1,250069,asymmetric_piecewise,0.5590697674418605,0.5590697674418605,0.0,True,,candidate-control absolute
+F1_vs_N3,asymmetric_piecewise,edge_f1,250070,asymmetric_piecewise,0.3021739130434783,0.3021739130434783,0.0,True,,candidate-control absolute
+F1_vs_N3,asymmetric_piecewise,edge_f1,250071,asymmetric_piecewise,0.3358934971838198,0.31754032258064513,0.01835317460317465,True,,candidate-control absolute
+F1_vs_N3,asymmetric_piecewise,edge_f1,250072,asymmetric_piecewise,0.4565217391304348,0.45342789598108746,0.003093843149347353,True,,candidate-control absolute
+F1_vs_N3,asymmetric_piecewise,full_data_residual_absolute,250069,asymmetric_piecewise,0.017980681634036856,0.020012134675618673,0.10151106188870453,True,,(control-candidate)/control
+F1_vs_N3,asymmetric_piecewise,full_data_residual_absolute,250070,asymmetric_piecewise,0.01568427575728188,0.019897705353594572,0.21175454764443602,True,,(control-candidate)/control
+F1_vs_N3,asymmetric_piecewise,full_data_residual_absolute,250071,asymmetric_piecewise,0.021574402045976757,0.026289860615554463,0.17936415253520946,True,,(control-candidate)/control
+F1_vs_N3,asymmetric_piecewise,full_data_residual_absolute,250072,asymmetric_piecewise,0.01597619933147305,0.021004756400422687,0.23940087535832816,True,,(control-candidate)/control
+F1_vs_N3,smooth,delta_nrmse,250073,smooth,0.4855551526374707,0.49908850793250603,0.02711614288835825,True,,(control-candidate)/control
+F1_vs_N3,smooth,delta_nrmse,250074,smooth,0.3272141172189946,0.36145869126037555,0.0947399381156752,True,,(control-candidate)/control
+F1_vs_N3,smooth,delta_nrmse,250075,smooth,0.3537493999593372,0.38795376346790766,0.08816608248059936,True,,(control-candidate)/control
+F1_vs_N3,smooth,delta_nrmse,250076,smooth,0.29409223346372626,0.31342262912047003,0.06167517550021495,True,,(control-candidate)/control
+F1_vs_N3,smooth,support_iou,250073,smooth,0.8800098960910441,0.8800098960910441,0.0,True,,candidate-control absolute
+F1_vs_N3,smooth,support_iou,250074,smooth,0.8548387096774193,0.8578629032258065,-0.003024193548387233,True,,candidate-control absolute
+F1_vs_N3,smooth,support_iou,250075,smooth,0.803076923076923,0.823076923076923,-0.020000000000000018,True,,candidate-control absolute
+F1_vs_N3,smooth,support_iou,250076,smooth,0.9041666666666667,0.8909090909090909,0.013257575757575801,True,,candidate-control absolute
+F1_vs_N3,smooth,edge_f1,250073,smooth,0.7261904761904763,0.7261904761904763,0.0,True,,candidate-control absolute
+F1_vs_N3,smooth,edge_f1,250074,smooth,0.7849462365591398,0.8064516129032258,-0.021505376344086002,True,,candidate-control absolute
+F1_vs_N3,smooth,edge_f1,250075,smooth,0.6780626780626781,0.7165242165242165,-0.038461538461538436,True,,candidate-control absolute
+F1_vs_N3,smooth,edge_f1,250076,smooth,0.8387096774193548,0.8064516129032258,0.032258064516129004,True,,candidate-control absolute
+F1_vs_N3,smooth,full_data_residual_absolute,250073,smooth,0.016810709143716518,0.019885188246000683,0.15461151608169993,True,,(control-candidate)/control
+F1_vs_N3,smooth,full_data_residual_absolute,250074,smooth,0.01771561873916662,0.02296786926558471,0.22867817931583737,True,,(control-candidate)/control
+F1_vs_N3,smooth,full_data_residual_absolute,250075,smooth,0.014217043300253182,0.018629768745229744,0.23686420939102987,True,,(control-candidate)/control
+F1_vs_N3,smooth,full_data_residual_absolute,250076,smooth,0.013287724683527232,0.016409263693554832,0.19023029115277526,True,,(control-candidate)/control
+F1_vs_N3,mixed_scale,delta_nrmse,250077,mixed_scale,0.49952902796197707,0.4997651662245609,0.0004724984423538949,True,,(control-candidate)/control
+F1_vs_N3,mixed_scale,delta_nrmse,250078,mixed_scale,0.5514403462768298,0.5545423492965571,0.005593807260459402,True,,(control-candidate)/control
+F1_vs_N3,mixed_scale,delta_nrmse,250079,mixed_scale,0.5979057451953926,0.6012847627331683,0.005619662674331232,True,,(control-candidate)/control
+F1_vs_N3,mixed_scale,delta_nrmse,250080,mixed_scale,0.6144286880002463,0.6223909493132277,0.012793022330686656,True,,(control-candidate)/control
+F1_vs_N3,mixed_scale,support_iou,250077,mixed_scale,0.6202480992396959,0.6202480992396959,0.0,True,,candidate-control absolute
+F1_vs_N3,mixed_scale,support_iou,250078,mixed_scale,0.6292929292929292,0.6154589371980677,0.01383399209486158,True,,candidate-control absolute
+F1_vs_N3,mixed_scale,support_iou,250079,mixed_scale,0.6218926553672317,0.608641289247013,0.01325136612021871,True,,candidate-control absolute
+F1_vs_N3,mixed_scale,support_iou,250080,mixed_scale,0.6406356801093643,0.630229419703104,0.01040626040626036,True,,candidate-control absolute
+F1_vs_N3,mixed_scale,edge_f1,250077,mixed_scale,0.4984520123839009,0.4984520123839009,0.0,True,,candidate-control absolute
+F1_vs_N3,mixed_scale,edge_f1,250078,mixed_scale,0.6733333333333333,0.6594202898550725,0.013913043478260834,True,,candidate-control absolute
+F1_vs_N3,mixed_scale,edge_f1,250079,mixed_scale,0.7051741803278688,0.6739241803278688,0.03125,True,,candidate-control absolute
+F1_vs_N3,mixed_scale,edge_f1,250080,mixed_scale,0.5762852404643449,0.5687777329568374,0.007507507507507505,True,,candidate-control absolute
+F1_vs_N3,mixed_scale,full_data_residual_absolute,250077,mixed_scale,0.017162109570722242,0.01925545858227475,0.10871457579719758,True,,(control-candidate)/control
+F1_vs_N3,mixed_scale,full_data_residual_absolute,250078,mixed_scale,0.01688430271178356,0.019966860072600547,0.15438368124024746,True,,(control-candidate)/control
+F1_vs_N3,mixed_scale,full_data_residual_absolute,250079,mixed_scale,0.019078371396592665,0.022768641645510575,0.16207687337577917,True,,(control-candidate)/control
+F1_vs_N3,mixed_scale,full_data_residual_absolute,250080,mixed_scale,0.026993457833148025,0.033508183963750965,0.19442193995504345,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,delta_nrmse,250065,shell,0.5828350170586551,0.5824488902258224,-0.0006629368504472271,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,delta_nrmse,250066,shell,0.6674768907305846,0.6688199248656913,0.002008065377801693,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,delta_nrmse,250067,shell,0.6818375141947981,0.6855366255511306,0.005395935415352361,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,delta_nrmse,250068,shell,0.538000264664616,0.5377103163320502,-0.0005392277658789455,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,delta_nrmse,250069,asymmetric_piecewise,0.4929441388235874,0.4948986486567196,0.003949313336048216,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,delta_nrmse,250070,asymmetric_piecewise,0.8136897171745785,0.8285073186001713,0.017884695877675966,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,delta_nrmse,250071,asymmetric_piecewise,0.7716347513375992,0.7887932467232188,0.02175284265794484,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,delta_nrmse,250072,asymmetric_piecewise,0.7543033362818103,0.7659676648762186,0.015228225849838215,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,delta_nrmse,250073,smooth,0.4921891374509634,0.49908850793250603,0.01382394178965084,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,delta_nrmse,250074,smooth,0.34143747437782357,0.36145869126037555,0.05539005525842998,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,delta_nrmse,250075,smooth,0.36609053315677753,0.38795376346790766,0.056355247377149635,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,delta_nrmse,250076,smooth,0.3061638865590086,0.31342262912047003,0.02315959948977194,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,delta_nrmse,250077,mixed_scale,0.4993344979412393,0.4997651662245609,0.0008617412985684119,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,delta_nrmse,250078,mixed_scale,0.5531823962475895,0.5545423492965571,0.00245238808306119,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,delta_nrmse,250079,mixed_scale,0.5999029661910065,0.6012847627331683,0.0022980734384168327,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,delta_nrmse,250080,mixed_scale,0.6195681050988239,0.6223909493132277,0.004535484035426068,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,support_iou,250065,shell,0.6591784338896021,0.6671052631578948,-0.00792682926829269,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,support_iou,250066,shell,0.5441595441595442,0.5365079365079365,0.007651607651607661,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,support_iou,250067,shell,0.6526175687666371,0.6526175687666371,0.0,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,support_iou,250068,shell,0.6989489489489489,0.6989489489489489,0.0,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,support_iou,250069,asymmetric_piecewise,0.6814009661835749,0.6814009661835749,0.0,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,support_iou,250070,asymmetric_piecewise,0.3127906976744186,0.3091321610890527,0.003658536585365857,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,support_iou,250071,asymmetric_piecewise,0.39814814814814814,0.36315128688010045,0.034996861268047685,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,support_iou,250072,asymmetric_piecewise,0.46967963386727685,0.4704203425012974,-0.0007407086340205371,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,support_iou,250073,smooth,0.8800098960910441,0.8800098960910441,0.0,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,support_iou,250074,smooth,0.8548387096774193,0.8578629032258065,-0.003024193548387233,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,support_iou,250075,smooth,0.803076923076923,0.823076923076923,-0.020000000000000018,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,support_iou,250076,smooth,0.8909090909090909,0.8909090909090909,0.0,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,support_iou,250077,mixed_scale,0.6202480992396959,0.6202480992396959,0.0,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,support_iou,250078,mixed_scale,0.6222222222222222,0.6154589371980677,0.006763285024154575,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,support_iou,250079,mixed_scale,0.608641289247013,0.608641289247013,0.0,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,support_iou,250080,mixed_scale,0.6276486671223513,0.630229419703104,-0.002580752580752632,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,edge_f1,250065,shell,0.7674418604651163,0.7664307381193125,0.0010111223458038054,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,edge_f1,250066,shell,0.6275689223057643,0.6198717948717949,0.007697127433969442,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,edge_f1,250067,shell,0.5053191489361701,0.5053191489361701,0.0,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,edge_f1,250068,shell,0.815734989648033,0.815734989648033,0.0,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,edge_f1,250069,asymmetric_piecewise,0.5590697674418605,0.5590697674418605,0.0,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,edge_f1,250070,asymmetric_piecewise,0.3060200668896321,0.3021739130434783,0.0038461538461538325,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,edge_f1,250071,asymmetric_piecewise,0.3416181914331042,0.31754032258064513,0.02407786885245905,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,edge_f1,250072,asymmetric_piecewise,0.43124368048533873,0.45342789598108746,-0.022184215495748727,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,edge_f1,250073,smooth,0.7261904761904763,0.7261904761904763,0.0,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,edge_f1,250074,smooth,0.7849462365591398,0.8064516129032258,-0.021505376344086002,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,edge_f1,250075,smooth,0.6780626780626781,0.7165242165242165,-0.038461538461538436,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,edge_f1,250076,smooth,0.8064516129032258,0.8064516129032258,0.0,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,edge_f1,250077,mixed_scale,0.4984520123839009,0.4984520123839009,0.0,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,edge_f1,250078,mixed_scale,0.6666666666666666,0.6594202898550725,0.007246376811594124,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,edge_f1,250079,mixed_scale,0.6739241803278688,0.6739241803278688,0.0,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,edge_f1,250080,mixed_scale,0.5762852404643449,0.5687777329568374,0.007507507507507505,True,,candidate-control absolute
+L6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250065,shell,0.0177139870018203,0.018140156473083813,0.023493152988832127,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250066,shell,0.02895116171533671,0.03184183250699153,0.09078217439339009,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250067,shell,0.022213085250216594,0.024152934263266132,0.08031525246188524,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250068,shell,0.01663531422607853,0.016753021147760123,0.007026011645507395,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250069,asymmetric_piecewise,0.019437427377411495,0.020012134675618673,0.02871794076557759,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250070,asymmetric_piecewise,0.01650187688542172,0.019897705353594572,0.170664325751481,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250071,asymmetric_piecewise,0.02305906203345086,0.026289860615554463,0.12289143062980314,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250072,asymmetric_piecewise,0.017559631339798758,0.021004756400422687,0.16401642537280756,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250073,smooth,0.018271744642308477,0.019885188246000683,0.08113795975839971,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250074,smooth,0.021290853125172392,0.02296786926558471,0.07301574739129917,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250075,smooth,0.016840639369801038,0.018629768745229744,0.09603604853585863,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250076,smooth,0.016069979499796983,0.016409263693554832,0.02067638134739169,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250077,mixed_scale,0.018812222814783435,0.01925545858227475,0.023018707427686302,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250078,mixed_scale,0.019104933898368783,0.019966860072600547,0.0431678376618935,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250079,mixed_scale,0.021661405683856123,0.022768641645510575,0.048629864657418954,True,,(control-candidate)/control
+L6_vs_N3,ALL_FAMILIES,full_data_residual_absolute,250080,mixed_scale,0.031157429762973445,0.033508183963750965,0.07015462859224353,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250065,shell,0.5828350170586551,0.5824488902258224,-0.0006629368504472271,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250066,shell,0.6674768907305846,0.6688199248656913,0.002008065377801693,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250067,shell,0.6818375141947981,0.6855366255511306,0.005395935415352361,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250068,shell,0.538000264664616,0.5377103163320502,-0.0005392277658789455,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250069,asymmetric_piecewise,0.4929441388235874,0.4948986486567196,0.003949313336048216,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250070,asymmetric_piecewise,0.8136897171745785,0.8285073186001713,0.017884695877675966,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250071,asymmetric_piecewise,0.7716347513375992,0.7887932467232188,0.02175284265794484,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250072,asymmetric_piecewise,0.7543033362818103,0.7659676648762186,0.015228225849838215,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250077,mixed_scale,0.4993344979412393,0.4997651662245609,0.0008617412985684119,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250078,mixed_scale,0.5531823962475895,0.5545423492965571,0.00245238808306119,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250079,mixed_scale,0.5999029661910065,0.6012847627331683,0.0022980734384168327,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,delta_nrmse,250080,mixed_scale,0.6195681050988239,0.6223909493132277,0.004535484035426068,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,support_iou,250065,shell,0.6591784338896021,0.6671052631578948,-0.00792682926829269,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,support_iou,250066,shell,0.5441595441595442,0.5365079365079365,0.007651607651607661,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,support_iou,250067,shell,0.6526175687666371,0.6526175687666371,0.0,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,support_iou,250068,shell,0.6989489489489489,0.6989489489489489,0.0,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,support_iou,250069,asymmetric_piecewise,0.6814009661835749,0.6814009661835749,0.0,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,support_iou,250070,asymmetric_piecewise,0.3127906976744186,0.3091321610890527,0.003658536585365857,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,support_iou,250071,asymmetric_piecewise,0.39814814814814814,0.36315128688010045,0.034996861268047685,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,support_iou,250072,asymmetric_piecewise,0.46967963386727685,0.4704203425012974,-0.0007407086340205371,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,support_iou,250077,mixed_scale,0.6202480992396959,0.6202480992396959,0.0,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,support_iou,250078,mixed_scale,0.6222222222222222,0.6154589371980677,0.006763285024154575,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,support_iou,250079,mixed_scale,0.608641289247013,0.608641289247013,0.0,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,support_iou,250080,mixed_scale,0.6276486671223513,0.630229419703104,-0.002580752580752632,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,edge_f1,250065,shell,0.7674418604651163,0.7664307381193125,0.0010111223458038054,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,edge_f1,250066,shell,0.6275689223057643,0.6198717948717949,0.007697127433969442,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,edge_f1,250067,shell,0.5053191489361701,0.5053191489361701,0.0,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,edge_f1,250068,shell,0.815734989648033,0.815734989648033,0.0,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,edge_f1,250069,asymmetric_piecewise,0.5590697674418605,0.5590697674418605,0.0,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,edge_f1,250070,asymmetric_piecewise,0.3060200668896321,0.3021739130434783,0.0038461538461538325,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,edge_f1,250071,asymmetric_piecewise,0.3416181914331042,0.31754032258064513,0.02407786885245905,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,edge_f1,250072,asymmetric_piecewise,0.43124368048533873,0.45342789598108746,-0.022184215495748727,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,edge_f1,250077,mixed_scale,0.4984520123839009,0.4984520123839009,0.0,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,edge_f1,250078,mixed_scale,0.6666666666666666,0.6594202898550725,0.007246376811594124,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,edge_f1,250079,mixed_scale,0.6739241803278688,0.6739241803278688,0.0,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,edge_f1,250080,mixed_scale,0.5762852404643449,0.5687777329568374,0.007507507507507505,True,,candidate-control absolute
+L6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250065,shell,0.0177139870018203,0.018140156473083813,0.023493152988832127,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250066,shell,0.02895116171533671,0.03184183250699153,0.09078217439339009,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250067,shell,0.022213085250216594,0.024152934263266132,0.08031525246188524,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250068,shell,0.01663531422607853,0.016753021147760123,0.007026011645507395,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250069,asymmetric_piecewise,0.019437427377411495,0.020012134675618673,0.02871794076557759,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250070,asymmetric_piecewise,0.01650187688542172,0.019897705353594572,0.170664325751481,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250071,asymmetric_piecewise,0.02305906203345086,0.026289860615554463,0.12289143062980314,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250072,asymmetric_piecewise,0.017559631339798758,0.021004756400422687,0.16401642537280756,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250077,mixed_scale,0.018812222814783435,0.01925545858227475,0.023018707427686302,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250078,mixed_scale,0.019104933898368783,0.019966860072600547,0.0431678376618935,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250079,mixed_scale,0.021661405683856123,0.022768641645510575,0.048629864657418954,True,,(control-candidate)/control
+L6_vs_N3,COMPLEX_FAMILIES,full_data_residual_absolute,250080,mixed_scale,0.031157429762973445,0.033508183963750965,0.07015462859224353,True,,(control-candidate)/control
+L6_vs_N3,shell,delta_nrmse,250065,shell,0.5828350170586551,0.5824488902258224,-0.0006629368504472271,True,,(control-candidate)/control
+L6_vs_N3,shell,delta_nrmse,250066,shell,0.6674768907305846,0.6688199248656913,0.002008065377801693,True,,(control-candidate)/control
+L6_vs_N3,shell,delta_nrmse,250067,shell,0.6818375141947981,0.6855366255511306,0.005395935415352361,True,,(control-candidate)/control
+L6_vs_N3,shell,delta_nrmse,250068,shell,0.538000264664616,0.5377103163320502,-0.0005392277658789455,True,,(control-candidate)/control
+L6_vs_N3,shell,support_iou,250065,shell,0.6591784338896021,0.6671052631578948,-0.00792682926829269,True,,candidate-control absolute
+L6_vs_N3,shell,support_iou,250066,shell,0.5441595441595442,0.5365079365079365,0.007651607651607661,True,,candidate-control absolute
+L6_vs_N3,shell,support_iou,250067,shell,0.6526175687666371,0.6526175687666371,0.0,True,,candidate-control absolute
+L6_vs_N3,shell,support_iou,250068,shell,0.6989489489489489,0.6989489489489489,0.0,True,,candidate-control absolute
+L6_vs_N3,shell,edge_f1,250065,shell,0.7674418604651163,0.7664307381193125,0.0010111223458038054,True,,candidate-control absolute
+L6_vs_N3,shell,edge_f1,250066,shell,0.6275689223057643,0.6198717948717949,0.007697127433969442,True,,candidate-control absolute
+L6_vs_N3,shell,edge_f1,250067,shell,0.5053191489361701,0.5053191489361701,0.0,True,,candidate-control absolute
+L6_vs_N3,shell,edge_f1,250068,shell,0.815734989648033,0.815734989648033,0.0,True,,candidate-control absolute
+L6_vs_N3,shell,full_data_residual_absolute,250065,shell,0.0177139870018203,0.018140156473083813,0.023493152988832127,True,,(control-candidate)/control
+L6_vs_N3,shell,full_data_residual_absolute,250066,shell,0.02895116171533671,0.03184183250699153,0.09078217439339009,True,,(control-candidate)/control
+L6_vs_N3,shell,full_data_residual_absolute,250067,shell,0.022213085250216594,0.024152934263266132,0.08031525246188524,True,,(control-candidate)/control
+L6_vs_N3,shell,full_data_residual_absolute,250068,shell,0.01663531422607853,0.016753021147760123,0.007026011645507395,True,,(control-candidate)/control
+L6_vs_N3,asymmetric_piecewise,delta_nrmse,250069,asymmetric_piecewise,0.4929441388235874,0.4948986486567196,0.003949313336048216,True,,(control-candidate)/control
+L6_vs_N3,asymmetric_piecewise,delta_nrmse,250070,asymmetric_piecewise,0.8136897171745785,0.8285073186001713,0.017884695877675966,True,,(control-candidate)/control
+L6_vs_N3,asymmetric_piecewise,delta_nrmse,250071,asymmetric_piecewise,0.7716347513375992,0.7887932467232188,0.02175284265794484,True,,(control-candidate)/control
+L6_vs_N3,asymmetric_piecewise,delta_nrmse,250072,asymmetric_piecewise,0.7543033362818103,0.7659676648762186,0.015228225849838215,True,,(control-candidate)/control
+L6_vs_N3,asymmetric_piecewise,support_iou,250069,asymmetric_piecewise,0.6814009661835749,0.6814009661835749,0.0,True,,candidate-control absolute
+L6_vs_N3,asymmetric_piecewise,support_iou,250070,asymmetric_piecewise,0.3127906976744186,0.3091321610890527,0.003658536585365857,True,,candidate-control absolute
+L6_vs_N3,asymmetric_piecewise,support_iou,250071,asymmetric_piecewise,0.39814814814814814,0.36315128688010045,0.034996861268047685,True,,candidate-control absolute
+L6_vs_N3,asymmetric_piecewise,support_iou,250072,asymmetric_piecewise,0.46967963386727685,0.4704203425012974,-0.0007407086340205371,True,,candidate-control absolute
+L6_vs_N3,asymmetric_piecewise,edge_f1,250069,asymmetric_piecewise,0.5590697674418605,0.5590697674418605,0.0,True,,candidate-control absolute
+L6_vs_N3,asymmetric_piecewise,edge_f1,250070,asymmetric_piecewise,0.3060200668896321,0.3021739130434783,0.0038461538461538325,True,,candidate-control absolute
+L6_vs_N3,asymmetric_piecewise,edge_f1,250071,asymmetric_piecewise,0.3416181914331042,0.31754032258064513,0.02407786885245905,True,,candidate-control absolute
+L6_vs_N3,asymmetric_piecewise,edge_f1,250072,asymmetric_piecewise,0.43124368048533873,0.45342789598108746,-0.022184215495748727,True,,candidate-control absolute
+L6_vs_N3,asymmetric_piecewise,full_data_residual_absolute,250069,asymmetric_piecewise,0.019437427377411495,0.020012134675618673,0.02871794076557759,True,,(control-candidate)/control
+L6_vs_N3,asymmetric_piecewise,full_data_residual_absolute,250070,asymmetric_piecewise,0.01650187688542172,0.019897705353594572,0.170664325751481,True,,(control-candidate)/control
+L6_vs_N3,asymmetric_piecewise,full_data_residual_absolute,250071,asymmetric_piecewise,0.02305906203345086,0.026289860615554463,0.12289143062980314,True,,(control-candidate)/control
+L6_vs_N3,asymmetric_piecewise,full_data_residual_absolute,250072,asymmetric_piecewise,0.017559631339798758,0.021004756400422687,0.16401642537280756,True,,(control-candidate)/control
+L6_vs_N3,smooth,delta_nrmse,250073,smooth,0.4921891374509634,0.49908850793250603,0.01382394178965084,True,,(control-candidate)/control
+L6_vs_N3,smooth,delta_nrmse,250074,smooth,0.34143747437782357,0.36145869126037555,0.05539005525842998,True,,(control-candidate)/control
+L6_vs_N3,smooth,delta_nrmse,250075,smooth,0.36609053315677753,0.38795376346790766,0.056355247377149635,True,,(control-candidate)/control
+L6_vs_N3,smooth,delta_nrmse,250076,smooth,0.3061638865590086,0.31342262912047003,0.02315959948977194,True,,(control-candidate)/control
+L6_vs_N3,smooth,support_iou,250073,smooth,0.8800098960910441,0.8800098960910441,0.0,True,,candidate-control absolute
+L6_vs_N3,smooth,support_iou,250074,smooth,0.8548387096774193,0.8578629032258065,-0.003024193548387233,True,,candidate-control absolute
+L6_vs_N3,smooth,support_iou,250075,smooth,0.803076923076923,0.823076923076923,-0.020000000000000018,True,,candidate-control absolute
+L6_vs_N3,smooth,support_iou,250076,smooth,0.8909090909090909,0.8909090909090909,0.0,True,,candidate-control absolute
+L6_vs_N3,smooth,edge_f1,250073,smooth,0.7261904761904763,0.7261904761904763,0.0,True,,candidate-control absolute
+L6_vs_N3,smooth,edge_f1,250074,smooth,0.7849462365591398,0.8064516129032258,-0.021505376344086002,True,,candidate-control absolute
+L6_vs_N3,smooth,edge_f1,250075,smooth,0.6780626780626781,0.7165242165242165,-0.038461538461538436,True,,candidate-control absolute
+L6_vs_N3,smooth,edge_f1,250076,smooth,0.8064516129032258,0.8064516129032258,0.0,True,,candidate-control absolute
+L6_vs_N3,smooth,full_data_residual_absolute,250073,smooth,0.018271744642308477,0.019885188246000683,0.08113795975839971,True,,(control-candidate)/control
+L6_vs_N3,smooth,full_data_residual_absolute,250074,smooth,0.021290853125172392,0.02296786926558471,0.07301574739129917,True,,(control-candidate)/control
+L6_vs_N3,smooth,full_data_residual_absolute,250075,smooth,0.016840639369801038,0.018629768745229744,0.09603604853585863,True,,(control-candidate)/control
+L6_vs_N3,smooth,full_data_residual_absolute,250076,smooth,0.016069979499796983,0.016409263693554832,0.02067638134739169,True,,(control-candidate)/control
+L6_vs_N3,mixed_scale,delta_nrmse,250077,mixed_scale,0.4993344979412393,0.4997651662245609,0.0008617412985684119,True,,(control-candidate)/control
+L6_vs_N3,mixed_scale,delta_nrmse,250078,mixed_scale,0.5531823962475895,0.5545423492965571,0.00245238808306119,True,,(control-candidate)/control
+L6_vs_N3,mixed_scale,delta_nrmse,250079,mixed_scale,0.5999029661910065,0.6012847627331683,0.0022980734384168327,True,,(control-candidate)/control
+L6_vs_N3,mixed_scale,delta_nrmse,250080,mixed_scale,0.6195681050988239,0.6223909493132277,0.004535484035426068,True,,(control-candidate)/control
+L6_vs_N3,mixed_scale,support_iou,250077,mixed_scale,0.6202480992396959,0.6202480992396959,0.0,True,,candidate-control absolute
+L6_vs_N3,mixed_scale,support_iou,250078,mixed_scale,0.6222222222222222,0.6154589371980677,0.006763285024154575,True,,candidate-control absolute
+L6_vs_N3,mixed_scale,support_iou,250079,mixed_scale,0.608641289247013,0.608641289247013,0.0,True,,candidate-control absolute
+L6_vs_N3,mixed_scale,support_iou,250080,mixed_scale,0.6276486671223513,0.630229419703104,-0.002580752580752632,True,,candidate-control absolute
+L6_vs_N3,mixed_scale,edge_f1,250077,mixed_scale,0.4984520123839009,0.4984520123839009,0.0,True,,candidate-control absolute
+L6_vs_N3,mixed_scale,edge_f1,250078,mixed_scale,0.6666666666666666,0.6594202898550725,0.007246376811594124,True,,candidate-control absolute
+L6_vs_N3,mixed_scale,edge_f1,250079,mixed_scale,0.6739241803278688,0.6739241803278688,0.0,True,,candidate-control absolute
+L6_vs_N3,mixed_scale,edge_f1,250080,mixed_scale,0.5762852404643449,0.5687777329568374,0.007507507507507505,True,,candidate-control absolute
+L6_vs_N3,mixed_scale,full_data_residual_absolute,250077,mixed_scale,0.018812222814783435,0.01925545858227475,0.023018707427686302,True,,(control-candidate)/control
+L6_vs_N3,mixed_scale,full_data_residual_absolute,250078,mixed_scale,0.019104933898368783,0.019966860072600547,0.0431678376618935,True,,(control-candidate)/control
+L6_vs_N3,mixed_scale,full_data_residual_absolute,250079,mixed_scale,0.021661405683856123,0.022768641645510575,0.048629864657418954,True,,(control-candidate)/control
+L6_vs_N3,mixed_scale,full_data_residual_absolute,250080,mixed_scale,0.031157429762973445,0.033508183963750965,0.07015462859224353,True,,(control-candidate)/control

@@ -1,0 +1,65 @@
+{
+  "figures": [
+    {
+      "name": "counterfactual_distances",
+      "status": "AVAILABLE",
+      "png": "figures/counterfactual_distances.png",
+      "svg": "figures/counterfactual_distances.svg",
+      "raw_csv": "figures/counterfactual_distances.csv",
+      "raw_rows": 224,
+      "note": "All rows preserved. Scatter shows defined valid pairs with denominator/count annotations; not global identifiability.",
+      "synthetic_science": false
+    },
+    {
+      "name": "headroom_quality_cost",
+      "status": "AVAILABLE",
+      "png": "figures/headroom_quality_cost.png",
+      "svg": "figures/headroom_quality_cost.svg",
+      "raw_csv": "figures/headroom_quality_cost.csv",
+      "raw_rows": 17,
+      "note": "Means only with complete frozen cohort; all missing/failing parents null primary statistics. Two backgrounds averaged before parent gain.",
+      "synthetic_science": false
+    },
+    {
+      "name": "kappa_conditional_risk",
+      "status": "AVAILABLE",
+      "png": "figures/kappa_conditional_risk.png",
+      "svg": "figures/kappa_conditional_risk.svg",
+      "raw_csv": "figures/kappa_conditional_risk.csv",
+      "raw_rows": 192,
+      "note": "Zero/collapsed distributions retained in raw rows; undefined risk ratios remain undefined, no plotting floor.",
+      "synthetic_science": false
+    },
+    {
+      "name": "bp_information_preservation",
+      "status": "AVAILABLE",
+      "png": "figures/bp_information_preservation.png",
+      "svg": "figures/bp_information_preservation.svg",
+      "raw_csv": "figures/bp_information_preservation.csv",
+      "raw_rows": 1912,
+      "note": "Neither Euclidean BP norm nor finite SVD establishes whole-encoder information sufficiency; other 12 channels are nonlinear.",
+      "synthetic_science": false
+    },
+    {
+      "name": "fixed_material_real",
+      "status": "AVAILABLE",
+      "png": "figures/fixed_material_real.png",
+      "svg": "figures/fixed_material_real.svg",
+      "raw_csv": "figures/fixed_material_real.csv",
+      "raw_rows": 18432,
+      "note": "Metadata-fixed objects, not best-case selection; delta material with known background subtracted. Missing k6 is never replaced.",
+      "synthetic_science": false
+    },
+    {
+      "name": "fixed_material_imag",
+      "status": "AVAILABLE",
+      "png": "figures/fixed_material_imag.png",
+      "svg": "figures/fixed_material_imag.svg",
+      "raw_csv": "figures/fixed_material_imag.csv",
+      "raw_rows": 18432,
+      "note": "Metadata-fixed objects, not best-case selection; delta material with known background subtracted. Missing k6 is never replaced.",
+      "synthetic_science": false
+    }
+  ],
+  "synthetic_science": false
+}

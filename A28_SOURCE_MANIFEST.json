@@ -1,0 +1,29 @@
+{
+  "frozen_A27_commit": "325cc8a5f99d686ce1b1570296f94b0df1e90141",
+  "frozen_A26_commit": "2603f3bd16c48e48587fedc4363975779def17f5",
+  "frozen_A25_commit": "59d8cc57c9da99ccb7978febc308193c43d6f3e5",
+  "inherited_backend_sources_unchanged": true,
+  "new_source": "src/a28",
+  "physics": "24x24 2D TM; full-grid complex material; eight sources, thirty-two receivers",
+  "raw_evidence_asset": "A28_E1_RAW_EVIDENCE.zip",
+  "raw_bytes": 128917077,
+  "archive_members": 364,
+  "exposed_input_asset": "A28_E1_EXPOSED_INPUTS.zip",
+  "exact_state_LU_caches": "EXCLUDED_RUNTIME_CACHE",
+  "training_payload": "EXCLUDED",
+  "locked_payload": "EXCLUDED",
+  "new_training": "NOT_RUN",
+  "new_labels": 0,
+  "SHA256_checks": "NOT_RUN_BY_USER_POLICY",
+  "reports_checked": [
+    "README.md",
+    "E1_DECISION.md"
+  ],
+  "artifact_status": "ARTIFACTS_WRITTEN",
+  "scientific_status": "Read E1_DECISION.md; publication does not imply GO",
+  "strict_full_wave_known_state_count": 807,
+  "strict_count_label": "AT_LEAST",
+  "budget_compliance": "FAIL",
+  "replication_commit": "release target actual git commit",
+  "active_publication_job_excluded_from_prepublication_raw": true
+}

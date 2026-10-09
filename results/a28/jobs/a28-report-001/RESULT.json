@@ -1,0 +1,129 @@
+{
+  "status": "ARTIFACTS_WRITTEN",
+  "scientific_verdict_performed": false,
+  "scope": "EXPLORATORY_EXPOSED_DEVELOPMENT; finite candidate diagnosis",
+  "cohort_conditions": 32,
+  "cohort_parents": 16,
+  "sources": {
+    "anatomy": {
+      "path": "results/a28/anatomy/PAIR_METRICS.csv",
+      "available": true,
+      "rows": 224
+    },
+    "baseline": {
+      "path": "results/a28/anatomy/BASELINE_DIAGNOSTICS.csv",
+      "available": true,
+      "rows": 32
+    },
+    "headroom": {
+      "path": "results/a28/headroom/PER_ITERATION.csv",
+      "available": true,
+      "rows": 448
+    },
+    "posterior": {
+      "path": "results/a28/posterior/PER_DISTRIBUTION.csv",
+      "available": true,
+      "rows": 192
+    },
+    "decisions": {
+      "path": "results/a28/posterior/DECISIONS.csv",
+      "available": true,
+      "rows": 64
+    },
+    "bp": {
+      "path": "results/a28/bp/PAIR_INFORMATION.csv",
+      "available": true,
+      "rows": 888
+    },
+    "cnn_counterfactual": {
+      "path": "results/a28/bp/CNN_COUNTERFACTUAL_RESPONSE.csv",
+      "available": true,
+      "rows": 222
+    }
+  },
+  "unexpected_rows": {
+    "headroom": 0,
+    "anatomy": 0,
+    "posterior": 0,
+    "decisions": 0,
+    "baseline": 0,
+    "cnn_counterfactual": 0
+  },
+  "incomplete_parent_rows": {
+    "headroom": 0,
+    "anatomy": 1,
+    "posterior": 0,
+    "decisions": 0,
+    "cnn_counterfactual": 1
+  },
+  "bootstrap_samples": 2000,
+  "primary_group": "COMPLEX_FAMILIES",
+  "figures": [
+    {
+      "name": "counterfactual_distances",
+      "status": "AVAILABLE",
+      "png": "figures/counterfactual_distances.png",
+      "svg": "figures/counterfactual_distances.svg",
+      "raw_csv": "figures/counterfactual_distances.csv",
+      "raw_rows": 224,
+      "note": "All rows preserved. Scatter shows defined valid pairs with denominator/count annotations; not global identifiability.",
+      "synthetic_science": false
+    },
+    {
+      "name": "headroom_quality_cost",
+      "status": "AVAILABLE",
+      "png": "figures/headroom_quality_cost.png",
+      "svg": "figures/headroom_quality_cost.svg",
+      "raw_csv": "figures/headroom_quality_cost.csv",
+      "raw_rows": 17,
+      "note": "Means only with complete frozen cohort; all missing/failing parents null primary statistics. Two backgrounds averaged before parent gain.",
+      "synthetic_science": false
+    },
+    {
+      "name": "kappa_conditional_risk",
+      "status": "AVAILABLE",
+      "png": "figures/kappa_conditional_risk.png",
+      "svg": "figures/kappa_conditional_risk.svg",
+      "raw_csv": "figures/kappa_conditional_risk.csv",
+      "raw_rows": 192,
+      "note": "Zero/collapsed distributions retained in raw rows; undefined risk ratios remain undefined, no plotting floor.",
+      "synthetic_science": false
+    },
+    {
+      "name": "bp_information_preservation",
+      "status": "AVAILABLE",
+      "png": "figures/bp_information_preservation.png",
+      "svg": "figures/bp_information_preservation.svg",
+      "raw_csv": "figures/bp_information_preservation.csv",
+      "raw_rows": 1912,
+      "note": "Neither Euclidean BP norm nor finite SVD establishes whole-encoder information sufficiency; other 12 channels are nonlinear.",
+      "synthetic_science": false
+    },
+    {
+      "name": "fixed_material_real",
+      "status": "AVAILABLE",
+      "png": "figures/fixed_material_real.png",
+      "svg": "figures/fixed_material_real.svg",
+      "raw_csv": "figures/fixed_material_real.csv",
+      "raw_rows": 18432,
+      "note": "Metadata-fixed objects, not best-case selection; delta material with known background subtracted. Missing k6 is never replaced.",
+      "synthetic_science": false
+    },
+    {
+      "name": "fixed_material_imag",
+      "status": "AVAILABLE",
+      "png": "figures/fixed_material_imag.png",
+      "svg": "figures/fixed_material_imag.svg",
+      "raw_csv": "figures/fixed_material_imag.csv",
+      "raw_rows": 18432,
+      "note": "Metadata-fixed objects, not best-case selection; delta material with known background subtracted. Missing k6 is never replaced.",
+      "synthetic_science": false
+    }
+  ],
+  "cost_scope": "headroom curves show paid cumulative updates; setup/load/shared initial full state remain separate in cost ledger",
+  "no_physics_run": true,
+  "new_labels": 0,
+  "training": false,
+  "locked_opened": false,
+  "failure_policy": "Missing/invalid/duplicates retained. Primary estimates/CI null with incomplete pairing; no success-only means."
+}

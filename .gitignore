@@ -41,3 +41,13 @@ results/a27/jobs/*/job_checkpoint.json
 results/a27/jobs/*/job_manifest.json
 results/a27/transport_variants/
 research/delegated/a27_artifacts/synthetic_preview/
+
+# A28 public evidence uses Release arrays; runtime LU and control caches stay local.
+results/a28/**/*.npz
+results/a28/**/*.npy
+results/a28/exact_states/
+results/a28/repro_inputs/
+results/a28/jobs/*/COST_LEDGER.jsonl
+results/a28/jobs/*/job_checkpoint.json
+results/a28/jobs/*/job_manifest.json
+results/a28/transport_variants/

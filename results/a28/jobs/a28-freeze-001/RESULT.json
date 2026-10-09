@@ -1,0 +1,9 @@
+{
+  "status": "FROZEN",
+  "conditions": 32,
+  "parents": 16,
+  "prediction_seconds": 487.78626625016335,
+  "full_wave_cap": 768,
+  "new_training": false,
+  "locked_opened": false
+}

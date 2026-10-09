@@ -1,0 +1,144 @@
+{
+  "finite_secant": {
+    "relative_error": 1.5053865128799103e-15,
+    "passed": true
+  },
+  "opposite_anchor_secant": {
+    "relative_error": 1.8315482452148544e-15,
+    "passed": true
+  },
+  "exact_feedback_secant_remainder": {
+    "relative_error": 2.187197937898041e-13,
+    "passed": true
+  },
+  "current_material_pullback": {
+    "relative_error": 3.012900416582039e-15,
+    "passed": true
+  },
+  "cross_source_pythagoras": {
+    "relative_error": 1.849205851812626e-15,
+    "passed": true
+  },
+  "material_update_defect": {
+    "relative_error": 3.2248704690921365e-15,
+    "passed": true
+  },
+  "quadratic_excess_risk": {
+    "relative_error": 3.9629285877100284e-15,
+    "passed": true
+  },
+  "lost_log_likelihood_ratio": {
+    "relative_error": 2.5727131335668213e-15,
+    "passed": true
+  },
+  "lost_log_likelihood_under_hypothesis_a": {
+    "mean": 2.686378479955926,
+    "variance": 5.372756959911852,
+    "lost_KL": 2.686378479955926
+  },
+  "two_cell_equal_measurements": {
+    "relative_error": 1.649474208014518e-16,
+    "passed": true
+  },
+  "posterior_constitutive_covariance": {
+    "relative_error": 2.2679113292098965e-16,
+    "passed": true
+  },
+  "posterior_forward_commutator": {
+    "relative_error": 0.0,
+    "passed": true
+  },
+  "projected_mean_fits_data": {
+    "relative_error": 0.0,
+    "passed": true
+  },
+  "mean_projection_excess_risk": {
+    "relative_error": 2.1930331350620363e-15,
+    "passed": true
+  },
+  "two_cell_counterexample": {
+    "scope": "reciprocal finite VIE algebra, not a full-wave geometric simulation",
+    "materials": [
+      [
+        0.1,
+        1.0
+      ],
+      [
+        1.0,
+        0.1
+      ]
+    ],
+    "measured_data": [
+      1.3461538461538463,
+      1.346153846153846
+    ],
+    "material_conditional_mean": [
+      0.55,
+      0.55
+    ],
+    "mean_current": [
+      0.673076923076923,
+      0.6730769230769231
+    ],
+    "mean_internal_field": [
+      1.5384615384615385,
+      1.5384615384615383
+    ],
+    "constitutive_covariance": [
+      -0.17307692307692318,
+      -0.17307692307692302
+    ],
+    "forward_of_mean_material": 1.9642857142857144,
+    "ratio_of_mean_currents": [
+      0.43749999999999994,
+      0.43750000000000006
+    ],
+    "forward_of_ratio_material": 1.3461538461538463,
+    "material_MSE_sum_over_cells": 0.405,
+    "after_exact_data_consistency_MSE": 0.4303125,
+    "relative_MSE_increase": 0.0625,
+    "true_field_weighted_MSE_minimizer": [
+      0.33823529411764697,
+      0.3382352941176472
+    ],
+    "true_field_weighted_minimizer_material_MSE": 0.49468858131487886,
+    "weighted_loss_relative_material_MSE_increase": 0.22145328719723167,
+    "max_constitutive_matrix_condition": 2.412913728625304
+  },
+  "prior_coupling_example": {
+    "rho": 0.99,
+    "noise_variance": 0.01,
+    "unmeasured_coordinate_prior_variance": 1.0,
+    "unmeasured_coordinate_posterior_variance": 0.02960396039603963
+  },
+  "nonzero_current_error_zero_material_error": {
+    "relative_error": 0.0,
+    "passed": true
+  },
+  "weak_direction_update_counterexample": {
+    "J": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "truth": [
+      0.0,
+      1.0
+    ],
+    "estimate": [
+      0.0,
+      0.0
+    ],
+    "data_residual": 0.0,
+    "GN_step": 0.0,
+    "squared_material_error": 1.0
+  },
+  "beta_detectability_example": {
+    "scope": "two fixed Gaussian mean hypotheses, not material identifiability",
+    "beta": 0.168546,
+    "complex_data_count": 256,
+    "real_mahalanobis_distance": 3.8137606253397713,
+    "equal_prior_binary_error": 0.02826804406400442
+  }
+}

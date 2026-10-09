@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "files": 249,
+  "secret_scan": "matched bytes never logged",
+  "training_payload": "EXCLUDED",
+  "locked_payload": "EXCLUDED",
+  "exact_state_LU_caches": "EXCLUDED",
+  "binary_scientific_arrays": "Release only",
+  "SHA256_checks": "NOT_RUN",
+  "this_status_is_publication_safety_only": true,
+  "scientific_status": "E1_DECISION.md"
+}

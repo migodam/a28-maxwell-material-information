@@ -1,0 +1,12 @@
+{
+  "job": "a28-headroom-002--controller",
+  "status": "COMPLETE",
+  "device": "cuda",
+  "wall_seconds": 1.2402599999913946,
+  "process_cpu_seconds": 1.265625,
+  "gpu_occupation_seconds": 1.2402599999913946,
+  "charged_cpu_seconds": 1.265625,
+  "durable_reservations": {},
+  "measurement_role": "exclusive controller/import/stop tail",
+  "counts": {}
+}
